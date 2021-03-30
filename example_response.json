@@ -1,0 +1,722 @@
+{
+  "trip": {
+    "id": 32268605,
+    "name": "Fort Bragg M/C Test Camping Run",
+    "display_name": "Fort Bragg M/C Test Camping Run",
+    "privacy_level": 0,
+    "distance": 468.457,
+    "time": 26836,
+    "best_months_to_visit": [],
+    "category_ids": [],
+    "featured_region_id": null,
+    "region_ids": [],
+    "cost": 21,
+    "distance_units": "mi",
+    "waypoints_count": 9,
+    "description": null,
+    "created_by": 4588536,
+    "fuel_type": null,
+    "fuel_economy": 40.0,
+    "use_highways": null,
+    "path": "/?a2=t!32268605",
+    "image": {
+      "attribution_name": "Wikimedia Commons/J.smith",
+      "attribution_url": "https://commons.wikimedia.org/wiki/File:Ten_Mile_Haul_Road_-_Facing_North.jpg",
+      "base_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_300x145_U__-gravity_center_-extent_300x145/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_294x250_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_294x250_U__-gravity_center_-extent_294x250/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_348x296_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_348x296_U__-gravity_center_-extent_348x296/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_640x312_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_640x312_U__-gravity_center_-extent_640x312/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_582x495_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_582x495_U__-gravity_center_-extent_582x495/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_592x258_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_592x258_U__-gravity_center_-extent_592x258/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_702x304_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_702x304_U__-gravity_center_-extent_702x304/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_750x372_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_750x372_U__-gravity_center_-extent_750x372/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_960x416_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_960x416_U__-gravity_center_-extent_960x416/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_1170x507_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_1170x507_U__-gravity_center_-extent_1170x507/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_1242x615_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_1242x615_U__-gravity_center_-extent_1242x615/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_640x400_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_640x400_U__-gravity_center_-extent_640x400/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_300x145_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_300x145_U__-gravity_center_-extent_300x145/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_160x160_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_160x160_U__-gravity_center_-extent_160x160/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+      "v_75x50_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_75x50_U__-gravity_center_-extent_75x50/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg"
+    },
+    "updated_at": "2021-03-29T23:56:38+00:00",
+    "created_at": "2021-03-29T20:41:38+00:00",
+    "lock_version": 21,
+    "origin_specified": true,
+    "uploaded_image": {
+      "uploaded_image": {
+        "url": null,
+        "v_280x193_2x": {
+          "url": null
+        },
+        "v_705x1214": {
+          "url": null
+        },
+        "v_290x290": {
+          "url": null
+        },
+        "v_600x260": {
+          "url": null
+        },
+        "v_218x138": {
+          "url": null
+        },
+        "v_300x180": {
+          "url": null
+        },
+        "v_446x284": {
+          "url": null
+        },
+        "v_300x150": {
+          "url": null
+        },
+        "v_640x500": {
+          "url": null
+        },
+        "v_960x416": {
+          "url": null
+        },
+        "v_960x354": {
+          "url": null
+        },
+        "v_925x350": {
+          "url": null
+        },
+        "v_480x200": {
+          "url": null
+        },
+        "v_og_image": {
+          "url": null
+        },
+        "banner": {
+          "url": null
+        },
+        "pinterest": {
+          "url": null
+        },
+        "place_page": {
+          "url": null
+        },
+        "thumb": {
+          "url": null
+        }
+      }
+    },
+    "selected_image": "default",
+    "first_waypoint_id": 319378612,
+    "first_order_waypoint_id": 319378612,
+    "subtitle": "MacKerricher State Park",
+    "introduction": null,
+    "introduction_url": null,
+    "introduction_video_url": null,
+    "introduction_image": {
+      "base_url": null
+    },
+    "introduction_image_caption": null,
+    "conclusion": null,
+    "conclusion_url": null,
+    "conclusion_video_url": null,
+    "conclusion_image": {
+      "base_url": null
+    },
+    "featured_banner_image": {
+      "base_url": null
+    },
+    "featured_mobile_banner_image": {
+      "base_url": null
+    },
+    "conclusion_image_caption": null,
+    "display_layout": null,
+    "duration_days": null,
+    "upvotes": 0,
+    "is_trip_guide": false,
+    "is_private": null,
+    "published_at": null,
+    "html_meta_description": null,
+    "html_title": null,
+    "vehicle": {
+      "id": 340607,
+      "mpg": null,
+      "user_id": 4588536,
+      "vehicle": null,
+      "vehicle_id": null,
+      "vehicle_type": "Motorcycle"
+    },
+    "owner": {
+      "avatar_url": "https://assets1.roadtrippers.com/uploads/user/image/4588536/-quality_60_-interlace_Plane_-resize_100x100_U__-gravity_center_-extent_100x100/user-image-1e085e18-fd9e-43b1-b365-7c2c00e77fee.jpg",
+      "display_name": "Matthew Robinson",
+      "id": 4588536,
+      "is_pro": true,
+      "pro_ends_at": "2022-02-06T01:32:30+00:00",
+      "type": "User",
+      "username": "mpr90"
+    },
+    "sponsor": null,
+    "trip_permissions": [
+      {
+        "id": 166740,
+        "user_id": 4603727,
+        "trip_id": 32268605,
+        "trip_lock_version": 21,
+        "user": {
+          "avatar_url": "https://sa0.roadtrippers.com/assets/users/3/default-user-100.png",
+          "display_name": "Craig_Shawver",
+          "id": 4603727,
+          "is_pro": false,
+          "pro_ends_at": null,
+          "type": "User",
+          "username": "Craig_Shawver"
+        }
+      }
+    ],
+    "waypoints": [
+      {
+        "id": 319378612,
+        "type": "poi",
+        "combined_avg_rating": 4.6,
+        "name": "Vista Point",
+        "start_location": [
+          -122.48,
+          37.83305
+        ],
+        "end_location": [
+          -122.48,
+          37.83305
+        ],
+        "start_date": null,
+        "encoded_polyline": null,
+        "reversed": null,
+        "routed": true,
+        "address": {
+          "address1": "NB US 101, Exit 441 ( at N end of Golden Gate Bridge)",
+          "address2": null,
+          "city": "Sausalito",
+          "state": "CA",
+          "country": "US",
+          "postal_code": "94965"
+        },
+        "icon_slug": "nature",
+        "page_path": "/us/sausalito-ca/nature/vista-point-sausalito",
+        "booking_providers": [],
+        "image": {
+          "v_670x428_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/46787044/-strip_-quality_60_-interlace_Plane_-resize_670x428_U__-gravity_center_-extent_670x428/place_image-image-8f3b0323-06ad-439c-a089-e43592993863.jpg",
+          "v_300x145_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/46787044/-strip_-quality_60_-interlace_Plane_-resize_300x145_U__-gravity_center_-extent_300x145/place_image-image-8f3b0323-06ad-439c-a089-e43592993863.jpg",
+          "v_160x160_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/46787044/-strip_-quality_60_-interlace_Plane_-resize_160x160_U__-gravity_center_-extent_160x160/place_image-image-8f3b0323-06ad-439c-a089-e43592993863.jpg",
+          "v_75x50_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/46787044/-strip_-quality_60_-interlace_Plane_-resize_75x50_U__-gravity_center_-extent_75x50/place_image-image-8f3b0323-06ad-439c-a089-e43592993863.jpg"
+        },
+        "byway_id": null,
+        "poi_id": 1531486,
+        "next_order_waypoint_id": 319378774,
+        "prev_order_waypoint_id": null,
+        "guide_text": null,
+        "display_layout": null,
+        "region_id": null,
+        "region_hotels_path": null,
+        "region_slug": null,
+        "price_range": "Free",
+        "primary_category": {
+          "id": 5,
+          "display_name": "Outdoors & Recreation",
+          "category_name": "nature"
+        },
+        "canonical_poi_id": null,
+        "waypoint_notes": [],
+        "trip_guide_contents": [],
+        "moment": null,
+        "poi_video": null
+      },
+      {
+        "id": 319378774,
+        "type": "poi",
+        "combined_avg_rating": 3.5,
+        "name": "Lake Berryessa",
+        "start_location": [
+          -122.232132,
+          38.550718
+        ],
+        "end_location": [
+          -122.232132,
+          38.550718
+        ],
+        "start_date": null,
+        "encoded_polyline": null,
+        "reversed": null,
+        "routed": true,
+        "address": {
+          "address1": "5520 Knoxville Rd",
+          "address2": null,
+          "city": "Napa",
+          "state": "CA",
+          "country": "US",
+          "postal_code": "94558"
+        },
+        "icon_slug": "nature",
+        "page_path": "/us/napa-ca/nature/lake-berryessa",
+        "booking_providers": [],
+        "image": {
+          "v_670x428_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/11362521/-strip_-quality_60_-interlace_Plane_-resize_670x428_U__-gravity_center_-extent_670x428/place_image-image-b8117a26-1750-46c6-92b3-c81cbc453fa7.jpg",
+          "v_300x145_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/11362521/-strip_-quality_60_-interlace_Plane_-resize_300x145_U__-gravity_center_-extent_300x145/place_image-image-b8117a26-1750-46c6-92b3-c81cbc453fa7.jpg",
+          "v_160x160_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/11362521/-strip_-quality_60_-interlace_Plane_-resize_160x160_U__-gravity_center_-extent_160x160/place_image-image-b8117a26-1750-46c6-92b3-c81cbc453fa7.jpg",
+          "v_75x50_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/11362521/-strip_-quality_60_-interlace_Plane_-resize_75x50_U__-gravity_center_-extent_75x50/place_image-image-b8117a26-1750-46c6-92b3-c81cbc453fa7.jpg"
+        },
+        "byway_id": null,
+        "poi_id": 62858,
+        "next_order_waypoint_id": 319391401,
+        "prev_order_waypoint_id": 319378612,
+        "guide_text": null,
+        "display_layout": null,
+        "region_id": null,
+        "region_hotels_path": null,
+        "region_slug": null,
+        "price_range": null,
+        "primary_category": {
+          "id": 5,
+          "display_name": "Outdoors & Recreation",
+          "category_name": "nature"
+        },
+        "canonical_poi_id": null,
+        "waypoint_notes": [],
+        "trip_guide_contents": [],
+        "moment": null,
+        "poi_video": null
+      },
+      {
+        "id": 319391401,
+        "type": "poi",
+        "combined_avg_rating": null,
+        "name": "Island RV Park",
+        "start_location": [
+          -122.6719315,
+          39.01956065
+        ],
+        "end_location": [
+          -122.6719315,
+          39.01956065
+        ],
+        "start_date": null,
+        "encoded_polyline": null,
+        "reversed": null,
+        "routed": true,
+        "address": {
+          "address1": "12840 Island Drive",
+          "address2": null,
+          "city": "Clearlake Oaks",
+          "state": "CA",
+          "country": "US",
+          "postal_code": "95423"
+        },
+        "icon_slug": "camping-rv",
+        "page_path": "/us/clearlake-oaks-ca/camping-rv/island-rv-park-clearlake-oaks",
+        "booking_providers": [
+          {
+            "id": "6175981/roverpass_roadtrippers",
+            "name": "roverpass",
+            "price": null,
+            "url": "https://booking.places.togogroup.io/canonical_place/6175981/roverpass_roadtrippers"
+          }
+        ],
+        "image": null,
+        "byway_id": null,
+        "poi_id": 4184406,
+        "next_order_waypoint_id": 319378871,
+        "prev_order_waypoint_id": 319378774,
+        "guide_text": null,
+        "display_layout": null,
+        "region_id": null,
+        "region_hotels_path": null,
+        "region_slug": null,
+        "price_range": "$",
+        "primary_category": {
+          "id": 9,
+          "display_name": "Camping & RV",
+          "category_name": "camping-rv"
+        },
+        "canonical_poi_id": null,
+        "waypoint_notes": [],
+        "trip_guide_contents": [],
+        "moment": null,
+        "poi_video": null
+      },
+      {
+        "id": 319378871,
+        "type": "via",
+        "combined_avg_rating": null,
+        "name": "Via East State Highway 20, Lucerne, CA",
+        "start_location": [
+          -122.79828402403471,
+          39.09235610360412
+        ],
+        "end_location": [
+          -122.79828402403471,
+          39.09235610360412
+        ],
+        "start_date": null,
+        "encoded_polyline": null,
+        "reversed": null,
+        "routed": true,
+        "address": null,
+        "icon_slug": null,
+        "page_path": null,
+        "booking_providers": [],
+        "image": null,
+        "byway_id": null,
+        "poi_id": null,
+        "next_order_waypoint_id": 319404605,
+        "prev_order_waypoint_id": 319391401,
+        "guide_text": null,
+        "display_layout": null,
+        "region_id": null,
+        "region_hotels_path": null,
+        "region_slug": null,
+        "price_range": null,
+        "primary_category": null,
+        "canonical_poi_id": null,
+        "waypoint_notes": [],
+        "trip_guide_contents": [],
+        "moment": null,
+        "poi_video": null
+      },
+      {
+        "id": 319404605,
+        "type": "poi",
+        "combined_avg_rating": null,
+        "name": "Middle Creek Campground",
+        "start_location": [
+          -122.95,
+          39.253
+        ],
+        "end_location": [
+          -122.95,
+          39.253
+        ],
+        "start_date": null,
+        "encoded_polyline": null,
+        "reversed": null,
+        "routed": true,
+        "address": {
+          "address1": "Upper Lake Ranger District",
+          "address2": null,
+          "city": "Upper Lake",
+          "state": "CA",
+          "country": "US",
+          "postal_code": "95485"
+        },
+        "icon_slug": "camping-rv",
+        "page_path": "/us/upper-lake-ca/camping-rv/middle-creek-campground-upper-lake",
+        "booking_providers": [],
+        "image": {
+          "v_670x428_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/13322268/-strip_-quality_60_-interlace_Plane_-resize_670x428_U__-gravity_center_-extent_670x428/place_image-image-20493a00-e94d-4bbf-800e-a919cbf2877d.jpg",
+          "v_300x145_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/13322268/-strip_-quality_60_-interlace_Plane_-resize_300x145_U__-gravity_center_-extent_300x145/place_image-image-20493a00-e94d-4bbf-800e-a919cbf2877d.jpg",
+          "v_160x160_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/13322268/-strip_-quality_60_-interlace_Plane_-resize_160x160_U__-gravity_center_-extent_160x160/place_image-image-20493a00-e94d-4bbf-800e-a919cbf2877d.jpg",
+          "v_75x50_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/13322268/-strip_-quality_60_-interlace_Plane_-resize_75x50_U__-gravity_center_-extent_75x50/place_image-image-20493a00-e94d-4bbf-800e-a919cbf2877d.jpg"
+        },
+        "byway_id": null,
+        "poi_id": 268273,
+        "next_order_waypoint_id": 319379065,
+        "prev_order_waypoint_id": 319378871,
+        "guide_text": null,
+        "display_layout": null,
+        "region_id": null,
+        "region_hotels_path": null,
+        "region_slug": null,
+        "price_range": null,
+        "primary_category": {
+          "id": 9,
+          "display_name": "Camping & RV",
+          "category_name": "camping-rv"
+        },
+        "canonical_poi_id": null,
+        "waypoint_notes": [],
+        "trip_guide_contents": [],
+        "moment": null,
+        "poi_video": null
+      },
+      {
+        "id": 319379065,
+        "type": "geo",
+        "combined_avg_rating": null,
+        "name": "Elk Mountain Road, Upper Lake, California",
+        "start_location": [
+          -122.92769001989541,
+          39.2788492917868
+        ],
+        "end_location": [
+          -122.92769001989541,
+          39.2788492917868
+        ],
+        "start_date": null,
+        "encoded_polyline": null,
+        "reversed": null,
+        "routed": true,
+        "address": {
+          "address1": "Elk Mountain Road",
+          "address2": null,
+          "city": "Upper Lake",
+          "country": "United States",
+          "state": "California",
+          "postal_code": "95485"
+        },
+        "icon_slug": null,
+        "page_path": null,
+        "booking_providers": [],
+        "image": null,
+        "byway_id": null,
+        "poi_id": null,
+        "next_order_waypoint_id": 319378958,
+        "prev_order_waypoint_id": 319404605,
+        "guide_text": null,
+        "display_layout": null,
+        "region_id": null,
+        "region_hotels_path": null,
+        "region_slug": null,
+        "price_range": null,
+        "primary_category": null,
+        "canonical_poi_id": null,
+        "waypoint_notes": [],
+        "trip_guide_contents": [],
+        "moment": null,
+        "poi_video": null
+      },
+      {
+        "id": 319378958,
+        "type": "poi",
+        "combined_avg_rating": null,
+        "name": "Lake Pillsbury",
+        "start_location": [
+          -122.9575,
+          39.4072
+        ],
+        "end_location": [
+          -122.9575,
+          39.4072
+        ],
+        "start_date": null,
+        "encoded_polyline": null,
+        "reversed": null,
+        "routed": true,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": null,
+          "state": "CA",
+          "country": "US",
+          "postal_code": null
+        },
+        "icon_slug": "nature",
+        "page_path": "/us/ca/nature/lake-pillsbury-ca--3",
+        "booking_providers": [],
+        "image": {
+          "v_670x428_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026066875/-strip_-quality_60_-interlace_Plane_-resize_670x428_U__-gravity_center_-extent_670x428/place_image-image-83096154-a015-4c2b-8e5a-93644302cee0.jpg",
+          "v_300x145_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026066875/-strip_-quality_60_-interlace_Plane_-resize_300x145_U__-gravity_center_-extent_300x145/place_image-image-83096154-a015-4c2b-8e5a-93644302cee0.jpg",
+          "v_160x160_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026066875/-strip_-quality_60_-interlace_Plane_-resize_160x160_U__-gravity_center_-extent_160x160/place_image-image-83096154-a015-4c2b-8e5a-93644302cee0.jpg",
+          "v_75x50_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026066875/-strip_-quality_60_-interlace_Plane_-resize_75x50_U__-gravity_center_-extent_75x50/place_image-image-83096154-a015-4c2b-8e5a-93644302cee0.jpg"
+        },
+        "byway_id": null,
+        "poi_id": 21260981,
+        "next_order_waypoint_id": 319379227,
+        "prev_order_waypoint_id": 319379065,
+        "guide_text": null,
+        "display_layout": null,
+        "region_id": null,
+        "region_hotels_path": null,
+        "region_slug": null,
+        "price_range": null,
+        "primary_category": {
+          "id": 5,
+          "display_name": "Outdoors & Recreation",
+          "category_name": "nature"
+        },
+        "canonical_poi_id": null,
+        "waypoint_notes": [],
+        "trip_guide_contents": [],
+        "moment": null,
+        "poi_video": null
+      },
+      {
+        "id": 319379227,
+        "type": "poi",
+        "combined_avg_rating": 4.0,
+        "name": "Admiral William Standley State Recreation Area",
+        "start_location": [
+          -123.618276,
+          39.646217
+        ],
+        "end_location": [
+          -123.618276,
+          39.646217
+        ],
+        "start_date": null,
+        "encoded_polyline": null,
+        "reversed": null,
+        "routed": true,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Laytonville",
+          "state": "CA",
+          "country": "US",
+          "postal_code": "95417"
+        },
+        "icon_slug": "nature",
+        "page_path": "/us/branscomb-ca/nature/admiral-william-standley-state-recreation-area",
+        "booking_providers": [],
+        "image": {
+          "v_670x428_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/24174711/-strip_-quality_60_-interlace_Plane_-resize_670x428_U__-gravity_center_-extent_670x428/place_image-image-354df192-b601-481a-be58-d028238ae2d4.jpg",
+          "v_300x145_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/24174711/-strip_-quality_60_-interlace_Plane_-resize_300x145_U__-gravity_center_-extent_300x145/place_image-image-354df192-b601-481a-be58-d028238ae2d4.jpg",
+          "v_160x160_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/24174711/-strip_-quality_60_-interlace_Plane_-resize_160x160_U__-gravity_center_-extent_160x160/place_image-image-354df192-b601-481a-be58-d028238ae2d4.jpg",
+          "v_75x50_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/24174711/-strip_-quality_60_-interlace_Plane_-resize_75x50_U__-gravity_center_-extent_75x50/place_image-image-354df192-b601-481a-be58-d028238ae2d4.jpg"
+        },
+        "byway_id": null,
+        "poi_id": 33969,
+        "next_order_waypoint_id": 319378582,
+        "prev_order_waypoint_id": 319378958,
+        "guide_text": null,
+        "display_layout": null,
+        "region_id": null,
+        "region_hotels_path": null,
+        "region_slug": null,
+        "price_range": null,
+        "primary_category": {
+          "id": 5,
+          "display_name": "Outdoors & Recreation",
+          "category_name": "nature"
+        },
+        "canonical_poi_id": null,
+        "waypoint_notes": [],
+        "trip_guide_contents": [],
+        "moment": null,
+        "poi_video": null
+      },
+      {
+        "id": 319378582,
+        "type": "poi",
+        "combined_avg_rating": 4.5,
+        "name": "MacKerricher State Park",
+        "start_location": [
+          -123.7895,
+          39.4895
+        ],
+        "end_location": [
+          -123.7895,
+          39.4895
+        ],
+        "start_date": null,
+        "encoded_polyline": null,
+        "reversed": null,
+        "routed": true,
+        "address": {
+          "address1": "24100 MacKerricher Park Rd.",
+          "address2": null,
+          "city": "Fort Bragg",
+          "state": "CA",
+          "country": "US",
+          "postal_code": "95437"
+        },
+        "icon_slug": "nature",
+        "page_path": "/us/fort-bragg-ca/nature/mackerricher-state-park-fort-bragg-ca--4",
+        "booking_providers": [],
+        "image": {
+          "v_670x428_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_670x428_U__-gravity_center_-extent_670x428/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+          "v_300x145_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_300x145_U__-gravity_center_-extent_300x145/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+          "v_160x160_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_160x160_U__-gravity_center_-extent_160x160/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg",
+          "v_75x50_url": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026887826/-strip_-quality_60_-interlace_Plane_-resize_75x50_U__-gravity_center_-extent_75x50/place_image-image-1d13a8f4-6326-44b7-b1d3-29a7e15cfc69.jpg"
+        },
+        "byway_id": null,
+        "poi_id": 13685375,
+        "next_order_waypoint_id": null,
+        "prev_order_waypoint_id": 319379227,
+        "guide_text": null,
+        "display_layout": null,
+        "region_id": null,
+        "region_hotels_path": null,
+        "region_slug": null,
+        "price_range": "$",
+        "primary_category": {
+          "id": 5,
+          "display_name": "Outdoors & Recreation",
+          "category_name": "nature"
+        },
+        "canonical_poi_id": null,
+        "waypoint_notes": [],
+        "trip_guide_contents": [],
+        "moment": null,
+        "poi_video": null
+      }
+    ],
+    "legs": [
+      {
+        "id": 377408412,
+        "distance": 116.164,
+        "time": 5823,
+        "use_highways": true,
+        "encoded_polyline": "cg|eFh{pjVIXELEPIZKb@EZEP??CVCJAJAJ?F@H?H@HBFBHDFDJBH@H@F?JAJAJAJe@hBWh@MXOXQVMRQVSTQRSRSRSRUPSNUNWNULULWL}DpBeAh@ULWLULWNWNOJYPqEnCULWLUJYHYHYFYDY@Y@Y@YAYCYCYGWGWIWKYKUOWO{AaAUOWOUOWKYKWIYGYEYCYCY?Y@Y@YBYFUD}OjCWFYFYJWJWLWNUPUPSPSTQTOTQTyAfCs@fAOXQVQTUTSRSRUNWNWNWJWJWFYFYFWDmARWDYFWHWHYJWLULUNUPURSPSTSTQTQXOVcBxCOXQVQVSTSTSRUPUPUNWNWLWJWJ}EdBWJYJULWLUNUPUPSRSTSTQVOVOXOXMZMZKZK\\I\\G^G\\E^m@~EG^G^G\\I\\K\\I\\M\\MZMXOZMXQXQTQVSVSRSTSPuCfCi@d@URSTSRSTQVQTSVOVQVQXOVOZMXOZMXM\\MXM\\KZeAvCKZMZKZKRKTMZOXOXOVQXQVQVQVQTSVSRSTSRURUPUPUPUNUPWLUNYLWLWJWJWHWHYHYFWFYFYDYDYBYBYBY@Y@Y@Y@Y?[@Y?qWDiB?Y?Y@Y?Y@[BYBWBYBYDWDYFWFYFWHWHWHWJWJWLWJULWNUNUNUNUPUPSPSRURQRSTSTQTSTQVQTQVgAzAsDhFc@l@QVQVOTQXOVOXQVOXOXMXOXOXOVMZOZIVOXMXKZOZMXMZMXOZMVQZOVQVORKNGFSTWVUTWRWRYRWNWNYN[LYL[JYJ[FYH[D]F[DY@_@B[@Y?e\\JcC@q@?s@@s@?s@?q@@u@?q@As@?s@As@Cq@As@Cs@CgFQiZcAgNe@gFOmI[mMa@YAYAWAYAYCYAYCWAYCYEYCWEYEWEYEWEYGYGWGWGYIWGWIWIYIWKo@S}CeAuGyBo@Uo@Sq@So@Uo@Sq@So@Qq@Sq@Qq@Qq@Qo@Qq@Qq@OgEaA}IqBWGYGWGYEYGWEYE[EYEYCYCYCYCYAYAYA[?Y?Y?Y?Y@Y@[@Y@YBYBYBYBYDYDYDYFYFYDYHWFYHWHWHYJYJWJo@VWLsLlF}Ap@kAh@iD|AWJWJYLWJYJWJYJWHWJYHWHYHWHYFYHWFYFYFYFYFYFYDWD[DWD[DYDWB[BYDYBiO~AoEd@{CZoJhAUBYBYBC?W@YBY@Y@Y?Y?[?Y?YAYAYC[AYCYCYEYCYGWE[EYGWGYGYEeASYGWEYEYEs@K_Ca@}Ba@yCe@mMyBYEYGYGYGWGYIWIWIYKWKWKWKWMYMUM]QaJuEwFuCUMWMWOUOWOUOUQUQSQUSSSSUSSQUSWgFmGQUSUUSUSUQUOWOWMYMWKYIWIYGYEYEYC[AYAY?Y@[@YBYBaMrAiPhBwEd@YBYDWD[DWFYFYJWJWLWLUNWPUPURSTQRSVQVOVQXMXOZ{A`DyAbDyA`D{A`D{@jB]t@_@t@}@hBiFlK}A~COXOXOZOXOVOXOXOXQXOXQVOXMNKNSVUTUTUPURYNWNYLWJ[JUDYFYD[DW@[@[?Y?[AQA[EWGuP}Ca@Go@Ks@Ms@Ks@Is@Gs@Gs@Eu@Cs@As@Au@@s@@s@Bs@Ds@Fu@Js@Jq@Ls@Nq@Ns@Rq@Ro@Tq@Tq@Xo@VoCnAiJdEo@Zo@Zm@\\m@^m@`@k@`@k@d@i@d@k@f@gBdBoEfEkDdD_A~@kAhAcD`DSRyFtFi@h@k@d@i@f@i@d@k@b@k@b@m@`@m@`@k@^o@^m@^m@^o@`@qA|@cC`BaC~AuGlEuA~@uA|@uA|@aAl@i@\\k@\\i@\\k@^k@^wHdFq@b@aG|D_Al@uIzFuClBUNUNUNSLUNULULULUJWJWJWHSHYHUHWHWFWFWFWFWDWDYDWBWBWBY@WBY@W@W?Y?W?W@Y?oJ?cF?o@?W?YAWAYAWCWAWEWCYEWEWEWGWGUGYIUIo@QqK_DqH{BeGgBWIWGUIWGWIWGWGWGEAQEWGWGYEUEYGWEWEUCYGWCWEWEYCWEo@Io@Iq@Io@IcOiBWEYCWEWCWCWCYCWCWCYCWAWCWCYAYCWAyIe@ySiAYCWAWCWEYCWCWEWEWEWEWEWEWEiDk@WEWEWEYCWCWCYAWAWAW?Y?W?Y@W@YBWBWBWDWDWDWDkDh@WDWBWBW@Y@W@W?WAYAWAWCWCWEWEWGWGWGWIUIWKUKUMUMUOiMyHqHsEUMSMWMUOUMUMUMUMUMWKUMUMUKWMUKUMUKWKWKUKWKUIWKUIWKWIWIWIUGWIWIWGWIWGWGWGWGWEWGWEWGWEYEWEWEWEWEYCWEWCYCWCWCYCWCWCYCWAqJo@WAYCWAYAWAY?WAW?Y?W?Y?W@W@Y@W@WBY@WBWBYBWDWDYDWDWDWDWFWFWFWHWFWHWHUHWHWJUHWJWJULUJULWJULUNULUNULSNUNUPSNSPUPSPSPSPUPwBjBoHnGeNrLSPSPUPSNSNUNULULULULUJWJUHWJWHUFWFWFqFfAWFWFWFWFWHWFUHYHSHYJUJWJUHWJULqGpCm@Vm@V{FhCuD`BcAd@UJ??}Ad@WHWJWJYPULUNUNSNUNUPSNSPSPSPSRUPST{CtCKHIHIFIFKFKFIFKDKDKDKDKDKBKBKBKBMBK@M@K@S@M@K?MAO?MAKAMAKCKAKCKCMCMEIEKEKEKGIGQMKGIGKIKIIIKIIKIKGKIIIMIMGMGMGKGOa@}@qDaIaCkF}AgDsAuCM[O[OYO[OYOY_@s@a@q@e@q@mCwDyB}CsGeJo_@_i@e^gg@iWm^o@y@o@y@k@s@o@w@oLmNgAqAwGaI]a@a@a@c@a@a@]a@Wc@Yg@Ye@Si@Ug@Mg@Og@Kk@Ig@Gg@Eg@Ag@Ag@@k@Bg@BmDPe@@]?a@?a@Ea@Ea@I_@I_@Ka@Oa@Qc@Ua@WOMQMOOOOOOMQMQMQyEyGmQ{V_@i@e@o@]i@]k@_@m@a@s@_@u@gI{OyHeOyHiOu@wAWg@kJyQ{MuWyOwZ}BqEyI{PwHcOqB{D_JcQqH{NwHcOuK_TsJ}QcHcNo@oAi@aAi@aAm@_Am@_AwAsBkEgGaCgDq@aA[g@]m@c@y@_@s@Se@Sc@??Q[U[OOOOSOyCuBQIWIYOWKYIWEWEWAU?U?WBW@YDgFz@y@N{@PaATeAVw@Tw@Rw@Vu@Ty@Xy@Xq@Vg@ReA`@q@Zy@\\s@\\q@Z_Ad@eAj@}@h@cAn@mAx@wB~AyIxGeLrIoA~@w@h@q@f@E@C@g@Z{@d@w@\\s@Zo@Tq@T{@Vy@Ri@Hm@Fm@Dm@?i@Ci@CWEYEa@Ka@Mq@Ss@Wo@Ym@Yo@]m@_@q@a@m@c@q@g@i@c@g@c@m@k@aFuEyBsB[]Y_@[c@Yi@Wk@Sm@Qm@Mq@Mo@Gq@Gs@i@cIMsBGm@Go@Ko@Mk@Qk@Qg@Ug@Yi@Wa@Y_@a@a@]Y_@Ya@UkHkEgEgC}@g@gBcAeBcA}A_AeBeAkBmAm@]m@[m@Yg@Om@Sq@QeBa@w@Mq@Im@Gq@Co@Ck@?i@@i@@m@Fq@Fo@Hk@Jq@Nm@Pu@Tk@R{CbA{DlAoAb@mA`@uAf@gExAiExAkBj@kBh@iVrGkCp@}@d@wGvEo\\`VaBjAeBdA{DtBeAl@y@l@w@p@{@bAi@l@m@f@gC|Au@^u@PeAB_AEmEIkBEcJGkSUq@Di@FSDWD]JgCt@w@T{EnAkAZi@LmA\\mEjAiBf@o@PsA\\mD~@cKnCcBd@uBl@mIvBkFrA_HfBiCp@qD`AyDbA??aBR[BY@QAWCYIYMYOWWUYU][o@??wAgGmBoI_@aBqC{Lc@{Ae@sA{@aBqAkBeDaF_B_CeBgCIKQUaBwBY]m@u@sBuBIKgFeGo@y@m@iAWq@Og@U_AEYIm@UkC]cEuBkWIeAOcAKyA?IAIC]?U?OAU?SASCkDE}G?i@?]CmDEeFEaOAiB?E?GAyAAkAA}A]wc@EaEImM?KGcKAkAEyHCcEAg@Cg@ASCSIe@Me@Ma@GOISSc@S]e@{@uAeCkBmDWa@W][[YWoAaAoHyFSOSSQSQWQ[Q]Q_@Oc@Me@Kg@iAcGeCsMGa@Ea@Ec@?c@?c@Bc@Bc@Fe@Fi@Jm@Hi@Li@dBsHHa@Je@Fe@De@Be@Bi@?i@Ak@Em@Go@Ik@Mk@Ok@Sk@Sk@aAmCAGk@}Au@uB]cAMk@Oq@My@GgACy@@aAHiAHq@Nw@V_AhCcKf@uB`@iBXyAPgAPcArF__@NqAFgABqA@iAEwA?YU}B_@}B_@uAk@yA{CkHqAqCaDiHyAmDu@wBu@eCOk@i@wBeDaNaAyDkA}EMg@Ou@Iu@Gm@Gw@C{@?q@?o@Bq@BaABwD?CDqAAm@Aa@Eg@Em@Kk@Ii@Qy@{B_GcEwKc@wCGuBDkB^wCdBmHpDuL\\uBTwB`@mG|@gPh@sJTsDd@kFv@yH^kDLeAJaAZyCH_AFaAD_AB}@?{@Aw@A}@Eu@Ew@Iw@e@}E_@eE]mD_@kDo@yFMmAMgAMmA[wDUwBWeCSiB[mCo@sGgAkK?GaAaJ?Ec@iEg@_FsBkSeB{POaBGq@CcAAk@Ag@?g@?i@@g@Be@Bi@Be@TqCVoCXeDb@eFf@uFDi@Fi@Fi@Fg@Jm@Jo@Lq@Lq@ZaBD]B[??q@]m@Yo@]m@_@k@a@m@a@wEwDm@c@k@_@k@_@o@_@o@[m@Yq@Yq@Uq@Uo@Qu@Qq@Mq@Ks@Is@Gu@GgReAqAGiBOeBGeBGeBCaBCaB?gB?eB@_BBeBFcBDgBHmBLgBLeBNcBNeBR{APcBTgKdBs@Js@Jq@Js@Jq@Hu@Fq@Fs@Hs@Fs@Do@Bm@D}@Ds@Bs@Bu@Bq@@s@@u@Bs@@s@Bs@Bs@Bs@Du@Dq@Fs@Hs@Hs@Hs@Js@Lq@LeV`Es@Js@Ho@Fs@Ds@Bs@@u@?s@Cs@Cs@Es@Gs@I{Ei@wAKuA?uAHmAN}@Nw@PqL|B_Cd@kI~A_Cd@??_DTwAJ_BPi@HsAX??wAPkCV_@?_@EYKYUUa@Oc@y@aEEc@E_@SmBOuAK}@SyB_A_JE_@[aD]cDe@kEO{AE_@WoCe@{ESmBASKeAGc@CO[uCGk@[gDIq@O_BCUE_@SmB_@oDC[SkBUyBAMIu@@m@MsACU?M?U?Y?S?_A?m@?]?OA_AE}@?wD?yB?a@AgC?M@mG?_@?MAWAe@Gm@MaBAUYsDCSEk@Gq@QcB??SGw@SyA_@uFqAICcBC}BTkALuANe@DgCVC?e@C_@I]MWUUWW_@MWaDeHe@m@u@WKCmAUOCc@Ka@K]Q_@WaFoEUOWKWEUA_@B[J{ChA_@PYJOFc@To@Va@Ta@R}@f@gA^q@TYJg@NyDbA??u@F]A_@IYMYUYYc@c@u@u@s@cA_CiCqB}BqAwAsGgHCECA_AeAg@k@qAwAeAaAIKeAmA_AiAgAoAkCqCiCqC[]]_@aDmDi@k@oBwBgBoBCEe@i@]]g@m@[[]a@m@o@aCiCOQ[]cBoBkAsAqAwA{EoFWYqB{ByCiD}@_Ae@k@e@g@}AgBkAmAaBgBW]GMKQWy@AIOg@Sw@Su@o@oCSi@Y_@a@m@O]Ka@Ii@KaACm@BYF]L[Tc@FU@U?UEUQY[]OQGOM]Ka@Gg@EeA?e@Dg@h@gBDY?YG]a@oBE[A_@?eAGcCC_@GSIKOM[GIA}@Yg@Qg@[eAgAOYK[G_@AY@UJg@Da@Bc@Ae@Bm@Fq@p@uDRsABk@?m@CsAGsAK{@Uy@[aAM]SY[][g@WU]Yi@m@_@i@Wi@Qq@Mo@Qa@Wa@i@]i@Sk@Ke@G[@UBOAOGMOIUEi@Gk@Kc@O_@O]M[Ow@Uu@Kc@Gc@?g@@g@AY?YK{ACk@Gi@Cg@@i@Hi@Fi@@g@SmDE_@k@_BK_@Ke@YiCc@{DMcAYmB?C_@kCUsASa@Y_@eAm@m@]MQa@w@]{@Ww@Gq@Ak@H_DBg@Cw@Gs@uD_JYuACs@N}@TsA@mAeAmLQuBMmAI]OY[g@MQQMMMSIYI_@GWIKKKMIUCYCcA?c@@a@Fg@Fe@D]AO?EESKQOSOUEQAUBOFSh@iA|@_CDUBY?WE_@I_@EOIK]a@KQWg@kAiCMWIWGWEa@A]?YBWB]FYHUHOLQPMRITEtBSh@Qn@o@z@}AX_ADk@AqAEo@Iu@EmBBcB@c@Cc@Gu@K}@_@yASeAc@qCScBGMMIU?YBeADs@A}@Om@Q_AWm@Cg@@iGVe@Fg@P_Ab@SFYBm@Fa@FuAb@UNSJIBI?GCECWUEEGCI?G?I@GDEDEFO\\EFGFIBG?SI[IMAM@QDMDa@RMFO?a@EMAK@WFOJcAbA[PWHIBI@I?ICw@e@IAIAI@I@IHILc@rAGHI@IAIAGGGI]uAs@}A_@m@[a@KEICGAK@M@OF_@L]JSBS?{@O_AQY?UFmB`A_@Rc@NmARk@H_@L_@R[R[\\e@t@ONKFUHaAPWHUT}@dAo@d@yAx@WNk@R}FfAu@?iD}@qALm@Om@k@eAmB_A{BUi@IQi@g@_@Ek@Pk@j@_@Pi@G??Iw@XiABs@Ow@e@q@YW{A{@mCcBa@QSGo@I_EW_@FkAn@WFkANqC]_CGa@B}AZqA@m@C[D_@TOPc@bAQVMH]F_BAw@Vk@^_@Pg@J{BR_@?aAGO@QBSJKHMHMFMDW?c@Ew@Oi@SYE[AY@ODUNUJOJ[N_@JWB_@Ak@QSEOA_@BUJSJYPYNMFSF}AFq@Je@@_@Eo@[KCKCM?IBKJYZMJGBE?KAkAQe@Ec@FWHSJSNQTaAn@w@^SNKLORQZQ^QVUJg@NWLe@\\QNQDS@k@ESBULOLQRSRKFQFc@Fa@Dq@Ba@A]Ga@OUMQM[_@KMKKKGOGQAOAOB[He@L]Da@@aB@i@Da@L]Fo@JeABg@POPMRIRGPc@tAKVMJOJQ@M@OIMK[]QMOKSCa@@a@Da@LYBU@kAOo@Qm@e@WQ[C[@S@]NSFQ@MCMGs@m@]Sk@a@m@Ui@Gu@Bk@@eBBUCuAg@qAc@yAWKAeEa@qCu@]I_@IUAaAE_ADg@@s@HcAh@w@^e@Ju@^k@PYNc@^_@Pi@Ra@V_@Tw@V]R]X]ZYR]NyAb@s@Tk@KaDqAs@Ag@Ja@ZIHg@f@CDq@p@q@l@}@f@u@Vq@V}DV_BX[NWRm@x@u@x@YZ_@HaAX_@P}@|@aA`A}BxB]P]N}@LeAP{HrAm@?oAHc@O}@Su@@{Bj@]FUCi@E]I]QiEoCeBUUEQIMKKOIWI[WiBKUISOMKGMAQAWBaAVQBMCQEMO[[i@gAs@{AMc@c@aBQc@[e@_@Yo@_@WESCWBoCZ_B\\]BSBg@CQCs@M}@Oc@QKIMIiA}@]O]I{@A]@YBq@T_@@k@SOCQASBSDqBfAWJU@[K_@]W[U_@Qa@K_@o@gCKa@I[I[MY_@o@c@k@cAeBQSSOIIMKYOcEqB[SOQGIs@gBMSQMcAk@g@_@c@e@SWQYu@}AoDuGOa@Mi@G_@Ac@Ai@Bm@??]I[AUBYDa@LWP_@XOJSV_A`AcB`De@vAGPaAbCmD`KiAbDKRGJq@jAc@b@e@h@yA`A{E~@gAX{AdAw@dA{@hBe@~Au@fEg@vCy@vDmBdFsIzOeAhBqLrSqJpPMRKRINu@nAo@jAsKxR{B`CkD|BkH`CgJzC[JsBp@eErAy@XeD`BmA`A_@^eBtB}@|A{M|\\w@hBiAnBsA`B}C`Cw@`@a@R}B|@iDpA_A^_DlA_EbC{BlBuB`CqEhGcF`Hk@~@gE`JcCnC}A`AIDyBfAyR`G{GrBuAP{BGoC}@eAKeAHeB`Ag@t@e@lAy@tEi@zAe@lAuCtEU`@A@O\\IX??UMKIGKGKCKEKAOCS?U?[@_@D[DQFOHOLOJILI`@YLKFIHODODQFYZeCBS@U?SASASE[Ky@ASAO@Q@ODQDSHSHOLOXa@FMFMFUHWf@kBDQBKBM@M?K?UCM_@uDESEWGWGQIUKSMWuAyBwGuE_BU{AWu@u@]w@i@qBo@eAi@]i@WkB?}Ag@gGgFy@WqAEmEFeAKwBk@aBu@y@uAo@{AYi@k@_@qCSqAo@g@q@w@wBq@uAaA}@kMyEyAaAcAmAuBmEc@}AEwAJgAX}@zC}ERkBD_Z`@yA~BuBd@aAlCeKtBsCJQXk@RmACmGHgApCwLFcAImAYw@u@{@yF{CkA[oA@i^pJeUfBkPnC{Af@m@f@MJeMbKYTgA^}@E{CqAaAGi@Ri@p@Ql@q@zE_B~DWlEe@hAi@d@SDuBPmAX]VuArCy@dAa@^KDoEzA}@r@u@lAaBxEk@`AKP]l@eJdLmEpFu@zAmFvOaAvCSh@Sl@m@pAo@f@w@Li@CqBk@{@@m@X[\\_@~@uAfJe@rAo@`@s@DiAMm@K_Aa@yKaOa@Y{A]uDQwA\\cB~@o@RcA?wA]cDiB{CyBq@eA_EcJQ_@GI????",
+        "start_waypoint_id": 319378612,
+        "end_waypoint_id": 319378774
+      },
+      {
+        "id": 377428412,
+        "distance": 101.425,
+        "time": 5794,
+        "use_highways": true,
+        "encoded_polyline": "_mhjFxm`iVm@_Am@c@KIeAWcJAkBJyAl@iC~AmBjA_GzAqAh@sKzGq@Te@Jq@J{C^{Af@uBlAqAXgFd@_Ad@}@|@}GbHc@f@e@p@eDrFm@dAc@h@i@h@eAx@oEjDsAl@aADoBQy@F{@`@w@|@eBjFq@|@aAn@qH`AaBd@kAj@[NqE|B_At@_@l@}B|Do@fBi@zHe@~@gAdAg@jAAx@BvB\\lNK|@w@pAm@Pm@Eq@_@oC{AaACgAXy@b@gExBqBJ{@OqEiCcAQo@D}Ap@gFjEwLdG]Pu@p@a@j@q@~A}CjQk@xAgAzAsC|BaArAcIzRYdAItA@fAr@pHFhB]dBg@l@{HrE_AXwBMgBK}@P}LbJwAx@cGnBaAt@y@lA{CfJ]dB_@fDm@dBeAlA}@^gEdA}At@iApAiCfEy@z@qL|JoAt@}AXsIfA_@D}Gz@y@Jq@TWHwA`B[bAsAdIqCjF{BnJs@hAw@^{@@sNiAk@D??^vCB`A?~@C`AGt@QlASfA[dAg@dAw@nAkBvCq@jA[p@uC`HK\\G^Cf@Ef@Gh@Kt@kArHCj@@l@Lj@L`@dAjBXh@b@h@`@b@t@n@Z`@Td@Pb@Jl@Fh@?v@Cp@QxAGp@Cl@@r@Ft@Jr@Rn@Td@`@j@|@z@\\`@VVRd@Nj@BZ?ZCf@Y`BGh@Ad@Fb@Lf@v@fBNj@Jb@Fr@?l@Y|EGl@Or@kDvOOv@AFKr@Gp@Cv@@r@Br@Hz@VhBFz@Bn@Cp@Kr@Qn@[p@g@x@aAxAoAnBa@p@Wd@Sf@gBfFQn@Mt@E|@CvBIh@Ol@Ub@Y^a@X_@N_@Fc@Ai@IwAa@]C_@Dc@J_@TwArAwArAg@d@e@j@g@t@k@bAk@dAgCpEo@fAaArAuBnCSd@Kd@Gn@MtAUzDIzBG`ASv@[j@i@l@aAz@eA|@uAtAwA|AwAhBg@x@Wl@W|@}@tFU~@Wj@_@v@sBpC]^]V_@RaAh@c@Zu@x@aAlAm@|@oAnBS\\Q`@EJc@fAYt@Yf@Wb@_@h@[n@gAhDy@rCa@`BMl@Kx@ObBKt@Sr@Wh@qCvEKVQb@Ur@e@|Ak@`B]z@cApB_@r@a@l@_@d@c@f@m@j@e@\\o@Zm@H_A@{AC_BIm@Bm@Jk@VkAv@_BnAk@h@g@j@a@v@e@dAe@rAYdAYn@Sd@Wb@_ClDc@n@a@r@k@bA_@x@Ob@Ur@Sx@QdAKv@EdAAx@@pA?~@Ap@Gn@Kh@U`AQt@Kn@Iv@EbAAj@BjAA`@C^G\\G\\IXk@rAQb@K`@G^?^Hd@Lb@Vl@fCtElAxBp@pADJj@`A`@l@XVFFp@Xr@Xj@`@bBfBv@|@`@l@Vl@Vv@Hp@F~@?r@Gn@M`AYbA}ApESt@Qz@KjACdA@fAFbAJhATnAvAfGlArERj@Zp@vB|CZp@Tx@d@|BRt@h@fAn@rAjBvCh@v@DHXl@z@lB\\r@Zj@b@j@l@v@t@dA@@`@v@^t@fApCXn@`@j@f@p@`@d@^`@`@`@d@\\hAn@^RVRzArA\\Xd@Vl@VbCx@v@Tx@NfAFlDJb@BpDXnEd@h@DlMnAb@Fp@PzHvCzIdD`CdAlFnCbDbBxa@`VDBB@zNrIpGzD??CbAG`IEl@Ed@Kh@yHfZMv@Gr@]zg@SdY??_L`Im@l@Y`@OZOb@If@Gv@c@bNC~@@|@HbAxBzUHp@Jr@Tf@R`@ZZpBpAr@`@h@^??Zd@Tb@Lf@Jv@Fp@DbCBz@HtDC~@K~@Oz@Yx@Wj@IPaBzCgDlGMRW`@c@n@m@n@cCnBk@j@q@p@o@x@q@~@oLzPg@d@q@f@iAj@EBqAr@q@`@q@j@g@j@a@l@]p@[|@Qz@QjAa@zEGn@Mp@Ol@Sl@Ul@Yh@]d@]`@o@b@iCfBGFmGjEm@\\c@TcFnBqNrFyAh@_Ar@kB`B_DnCyG~FuHxGs@n@kBbAkHBiD@uAHwA\\mA`AaBhC{BvD_CzDaAx@kBn@_EZ{CJsLm@oBJkGrBsDpB}AxBg@vDO~F?PGbEYzBs@zAyArAc@Zw@j@qHpF[P[Hc@Dg@Bs@Go@Sk@]m@o@Wg@Si@kCaJyBuH[cAUy@Wq@Wo@aDeG]s@Ws@Mm@Iy@Gu@?y@DiI?oG@GC_@AYCYG_@Ic@IYK]yDqLWs@Se@U_@[_@_@]m@]kCoAiBu@oC_AwHaCyAg@gAi@u@k@CCk@i@}@iA_@]]Wa@QuAg@_@Ok@YiAo@_@O]I]Aa@Dg@LsAf@aARqCh@q@Dc@?a@K_@O_@[Ye@a@cAm@qBWk@Y[[Qg@EuAG{@Gs@Ga@?UDWHYLeBlAWP_@NuA`@a@Lg@T}BjAu@Z}@P{BCy@Qs@e@mAoAu@q@}CkB}@[}@MaADy@Tw@`@u@p@_CjCm@n@g@\\m@Nq@Bk@Mm@a@s@_@o@Oi@Fg@RgCtAwA~@w@Tu@JgBD}@EI?uAQwAYo@Yg@Sg@Ao@@g@Eu@Ao@F{@JgA@k@Gm@Oq@e@g@Om@?aGB_AM{@QeBq@[OYY}A_Bc@]_@ScA]o@FiANmD`@{@Tg@b@c@l@WbAe@tBa@jAk@lAk@z@}ApBwB`DoArAm@n@c@n@Yt@eCpLQbAYvBKp@iAfEgCpKw@zB_@tAYvAi@xE]fBMh@Qn@q@zBg@bB]z@c@d@_CtAi@b@o@x@oBbDYf@Wd@ILIJIHGJGFGDMJs@b@gBdAkBjAs@d@GFGFGFCBCBCDCFCDAFCHCHALAJAP?PAj@AVATCRCRERCPGXIVEJCJEJEHEFEFILSZk@v@aCfD_@p@ABIZCb@?d@FtA@l@Dn@Bl@Dl@D|A?l@En@El@i@nGGf@Id@M`@S^]^]Zs@b@a@^]d@Uj@Sf@m@hB{@jCWp@Wn@Yn@iAnCwBdFSh@Sh@YzAIl@Il@Il@El@Mh@Qf@gAxBuAhC[p@Yp@k@hBi@hB{BzHaBzFWv@Qf@[j@Yj@U^e@x@{@vAWr@Wt@Qv@{AhHg@vBQ~@Kx@ObAOdAsC|So@dEMpAMfAQ~@Kl@Ml@Ml@Qx@Qt@St@uAxEm@hBcAdDUv@Ut@aA~Ci@jBk@hBwAtEUt@sA~EuFvSUt@Ut@Yp@[l@]j@c@j@_@f@a@h@a@j@]n@[n@Wl@[v@Ut@[bAo@tBa@rAWt@Wp@[p@w@`BaAzAa@h@c@f@c@f@c@b@g@`@e@`@qA`AeD~BoA`Ae@b@c@f@_AtA[l@Yp@Ut@_@jBKx@i@jFKx@Kz@Ot@Ur@Wn@[l@[f@_@b@a@`@iB`Ba@b@]f@Ub@EHWn@Sr@Or@Kt@Gt@Cr@@h@?HBr@Fp@f@vEb@jFH|@D|@F~@B|@HzBJvFFxBDz@Dx@bBfUDl@JvAHh@Hd@L`@P\\TXVPXL^HlB^bDl@xJhB|B^tFbAf@Hh@DnELxBLlAJb@Fd@H`@L`@R\\TXZT\\R^N^Ld@Fd@@h@@h@Ah@Ad@EXAHKd@Qb@Ub@Ub@wA`C}AhCoChEw@rASXKN[f@}@zAWb@Yf@_@h@]j@Yh@a@j@e@r@w@nA_@j@a@j@Yn@]l@Yn@a@h@EF]`@Yj@}@vA_@l@_@j@[j@{EpH]j@]j@_@l@[j@_@l@[j@_@l@a@l@_@j@_@l@c@j@[n@cBlCc@p@a@n@a@n@_@p@c@n@oJrOuDdGyIhN_@p@oFxIeDjFwH|LuAzBa@~@_@`@_@h@}BrDk@~@CBo@fAa@n@kHhLaEvGUb@Sd@Oh@E`@AFEj@@j@Dj@Fj@dArHNnALjALbB@`@C^Gf@QpAIf@Md@Q`@S\\UXo@r@UZUb@w@|BQh@Wr@Wt@Yn@Yn@KZa@bASp@_@fB]hBIv@St@c@fBc@hBQj@AFe@hBa@fBOt@UtA]vB]rB_@dBk@~AIREJGN_@x@Sb@uD|HQ\\{DhIwChG}BtEgB|DiAlCUl@Wl@k@xA[z@_@x@]p@Ud@Ud@EHMZSb@Qb@Qd@K`@Mf@Q~@OxAOf@GLIFKHSL??Og@Qa@Qa@Qa@Ua@Ye@[c@}@iAcCuC_AkAcBqBi@m@wAeB_AiAa@g@sFuGEIsA_B]e@Ya@_@m@[g@Yi@Yk@m@{AWm@So@e@aBQq@o@oCmCkMi@kCQs@}BwKCGWeA]iBMg@CO]mA[gAk@wAWk@Wg@Yg@Ye@[e@[c@]_@}@}@aA{@e@[c@Yg@WMGWMg@SoAc@aDcAuEyAwAg@k@Wk@Wg@Yi@]g@_@e@_@e@c@c@c@a@e@IK]a@W_@]g@[g@[i@Wi@Ui@Uk@i@wAsBaGc@wAmAmDoB{F{@eCSi@y@cC}AwEoAoDi@yAUk@Wk@Yk@[i@Yi@wB{CyEqGaAmAa@e@a@a@c@_@c@]e@[e@Ye@Ue@Ug@Qc@QuEmAkJcCgEgAg@KmA[aJ}BEA{FyAgFuA_@Og@Oi@Ou@M[IIGGFEDIBG?GAICEEEG??O^Wn@OXQR]VWNyDnA_@L_Aj@_TbNuJhGmEpCuBpAg@Xg@Vi@Ri@Ri@Nk@Nk@Jk@Hk@Fm@Dm@@m@?uD@gCAgC?iN?aA?o@C_@?uC?yACm@Eo@Gk@K{A[e@Ka@Ma@Ia@Ig@Og@GsBCu@Fq@Ho@Lo@Pm@Tm@Zk@\\k@b@aCpBo@f@gCtBk@h@m@f@iCvBi@f@wD|CMJa@\\i@`@uGtFm@d@m@d@m@j@o@`@q@Zs@VyChAQFiC|@q@Xo@\\k@b@k@f@i@j@mA~Ag@f@oBpCkA|Ae@j@i@h@sAnAkD~C[TONcC~Bm@h@sArAg@n@i@n@e@p@e@p@kAdBkA`Bc@p@a@t@e@l@g@f@i@b@o@Xm@T_DPmLr@c@@s@Bi@?k@@o@Bs@Bo@Ho@D_@JODo@Tk@^c@Ze@b@c@h@Y\\GH_@r@Wr@]|AC`@Gt@AtABxAPzBLv@H|@F~@h@zFP~BD~@B`A@~@D`A?`AA~@E`AG~@Oz@Q|@Ux@gArDYt@q@xBq@zBU`Ay@rB[|@_AjBa@p@a@r@e@p@e@n@g@l@i@l@o@l@_@n@k@j@g@n@sAzAm@n@IJmD~DiCzCuCdDaAfAg@n@k@l@mAtAIJoAxAg@p@MPYXg@p@c@t@a@v@_@z@]x@{@xBoErLwA|Dy@|B]~@{@zB]|@_@x@GL[h@c@t@c@t@g@p@oA~Ak@f@i@f@m@`@iCbBm@\\q@\\IJ[^i@f@a@`@CBc@n@]r@Wx@Yv@S|@k@tBg@xBQ|@Sz@Ux@Wt@[p@]r@c@t@eAlAGD]\\]TMHm@Xw@RiAVaAPm@DkACc@Co@Kk@SuAo@i@[CCa@]kAiAoBsBe@c@kCoCgBeB{@{@c@_@][q@i@cAq@]SYU[QuAq@eBq@cEyA}@[o@Uo@Yu@Yq@UgDoAoAe@KEwHqCo@W{CgAo@Yq@Us@WgE}Aa@OMG_Bk@sCcA{Am@m@Wk@Yi@]g@c@SSQQc@i@_@m@]o@Ys@[u@sEgMwCcIiKqYYu@Yy@Yw@[u@IUOa@sDeK[u@[q@]o@c@k@c@g@g@e@k@c@m@]m@Wq@Sq@Oq@Io@Cu@?s@Dq@Jq@Po@To@VmFhCyI`E{G`DiBz@sGzC_Bv@_EjBeK|EgFdCkK`FoFdCeAf@g@Po@Tm@Lm@Jo@Do@Bq@?o@?oA?cIAo@?cA?iDAS?_DAy@AoC?mCBWAm@?kCD}EAoD?qAAaACkB?G?a@?wI?aB?wA?m@?q@?}A?o@@m@BcAHu@HaALw@LoEz@_AFiDf@yAZw@Vw@Ri@Ti@RiAd@eAh@}@h@{@l@}BjBc@`@a@^[\\c@f@}@lA_AlASXoA`Bi@l@a@f@e@b@k@b@k@^k@\\q@\\sAd@mC~@_RrGiBr@uAj@_QnHoF~B_A\\o@Rw@PaANq@H}@FmA@aB@}GGiQQgFAeDG_DEwBCcDI{A?_EG???X?hB@`A?fA?N@^BVDVBRHV^lAJVf@hALXHXJZF\\F\\B^B^B^?^?l@A|CExEE|CAx@?Z?T?R?ZAnA?l@?`@B\\?h@?j@@RI|P@VAnF?|@A^?|@Az@AZCLAJGXIXWp@qBbFKZIXAJUdAG`@Qt@IZq@vB_AxCIPMVKLABONOLQJSFSDg@HQBmADQDSFQHQLOPGJSZa@bACHMh@a@lBaA`E[pAKXKXMV]j@u@tA[d@OPONC@IDEBMFMDOFWJODGDC@KBUHGBSHYLYJa@PGBc@RULYLSJm@Xe@TSJeBz@{@`@MDQBQB_ADs@DqALoDd@o@FO@k@FQ?c@Ae@ESGw@UKCKAU?SBC?m@HaAF[@UFUFUHKH[NSHYHq@?O?qABO?a@?WAW?I@E?K@IBKFIFKNABGPCFENQt@ETG\\G\\EZCZAZA\\@t@AR?DAVGVITKPm@x@i@p@KRQVQVOVSXMXc@n@MVSZMPi@p@EBIDOBw@@KAe@?sA?O?]?EBIFEFCBELOr@]dB[pA_@|AYnAu@pD]dBQt@y@zDGNCPOh@]vAOd@O`@GNOXs@lAIL]b@KNKJg@f@EDIFKLOPOJMPIJMPOTKPITOd@ETGj@AVA\\?R?Z?t@Cp@AHCNCTGTKRKPMNu@n@yAxA_AhAm@r@QRMROP_@\\IJq@v@a@d@g@n@w@bAw@`Ai@l@UPKHe@XYPWNYLYPYToAt@u@d@YRYTWV}AbBcAjA_AhAk@n@QVe@r@u@lAQZOZIZ]x@c@v@w@nAaA`BKXIZWvAIXOXOXQVUTURUNo@^ULWHWDYBu@As@?u@DYDq@PWLm@\\k@XWPQHQLMRMX]x@[~@q@hCMd@WbA_@fB_@bBa@~AG\\UzAQx@IZKXKTMVQPOPONkAv@ONMTMVKXK^Uv@[~@o@fBu@bBO`@qBnFq@`CWx@EPw@|BSh@O^cBrDe@p@_CrBSPm@\\i@NQDQJO?OEOIMOQKSCU?UBUFQ?UFMAKGGMEQAW?U@WDUJWxAgCHWFYBYAYAYGUISOMOMQMiAeAa@]KKGMEM?M?QFOh@kAFSBUCSGUKS[g@Ui@GSCUAk@CSIQU]IMEO?QDOHMV[JQFU@WE_B?SEQKOKIOGOIOEOKKOGSAU@UBSJg@@QAUGSMSs@aAKQWg@GSESAWBUFWTq@F]Fa@@c@FiBFiAHkAFkABeA@c@?c@Ca@Ea@Ea@G_@E_@C]A]?]D[F_@L_ABa@@gBDyA?[AYGYOs@G[C]?]F_A@c@?_@CmAKkBC[E[EYQm@KQMOQIe@IOEOIKKGQASBUFSTi@HUFSBQBQAOGMKKQISGSIUMQMQOMQMSGWGWEWIo@?W@WAYGYMUMUOUMUMUQQSKo@Qo@SSOSOOUi@mAK_@]y@K[I]E]E]IwAIs@AYBWDWHSVg@FUDWFs@BYDSJUXe@JSHSVs@BM@OAKGIMEe@Am@@m@?UAWAa@IS?UBc@JSBQAMIEMAU?U@SDUBUFULc@BO?OCKIIMCQ@c@HQBQAOCOIIMGQEQKOQKSEO?E?o@Bk@Fi@@U?SEg@QUEW?W@UF}@\\SBQBSAOEKMKOESGk@EUMQQMSGYCmAE[A[EYGWGuAc@{@WIEKEUQCCMQQ[O][eAu@sCOe@Oc@Qa@U_@U_@Ua@iAwCUc@e@kAc@kAi@gAk@eAWa@W]W]wAuB_AeAOWMYG[C_@Aa@Ac@Cc@Ia@]iBKc@Qa@WY[W{@c@_@QsAq@[M[IOEMAWGYI[Iu@I[?y@Bu@D[@qAE]@uA@O?c@AuB?sA?U@]?qBEOAI?MAKAKAW?qEEuA@{FBYA[BU@yABm@?uABu@???M\\m@|A{AhEO`@gBdFa@lAM`@M`@M^k@fBO`@m@fBsFbPQ^oC|H{@`CkAdDk@`B{BnG[z@AFQf@O^O^Mb@O^m@bBm@fBId@Kd@UhAKj@Id@Eh@Eh@AXALEpA?hA?BF`B@NPrBFb@Hb@Hb@Nr@`A~Dl@jC\\nAFV\\bA^bArBvEL\\~@rBLXd@r@LTXTRRb@\\p@j@|@l@rAp@THTL\\LJD\\Hz@TxB`@|@RVBbBZNDJ@ZHJ@RDNBz@NXFVLVPTRRXDF??DEHMDGBIBM@O@_A?uAA{AImEAw@AmA?Y?WBWBQBSBGLm@BK??S[????",
+        "start_waypoint_id": 319378774,
+        "end_waypoint_id": 319391401
+      },
+      {
+        "id": 377428353,
+        "distance": 17.281,
+        "time": 1004,
+        "use_highways": true,
+        "encoded_polyline": "i_dmF`kvkVRZ??CJMl@CFCRCPCV?V?X@lA@v@HlE@zA?tAA~@ANCLCHEFILED??JPL^J^Fb@Bd@?b@Cf@Cf@o@lHOrAIh@Md@w@jBOb@Md@Gf@M~BGf@SjAGd@Ed@?d@@d@Dd@NhADd@?d@ChAAb@Bb@Hb@J`@N\\R\\TVl@p@PT@DP\\DX@FBb@?d@Eb@Id@M`@Q\\}@tAsDzFS`@Q`@Kb@Gd@?XARC`@AlA@d@Bb@@FDZHVBFN\\f@r@j@t@HJHNFLHNL^Hb@D^?D?d@BjABb@Hb@Jb@N`@Jb@Hb@Db@?d@AlF?TCnC?p@AhAAhAAn@Cr@ObBGp@e@jES`BQdBOlACPCx@Cd@?n@Bl@Fj@Ln@DLF\\FPX`ANh@@HH^Dl@@l@?l@Cn@O~AMpASjBEn@Cn@Al@Dl@Ap@@bC?x@An@AX?TEl@Ej@Gl@ADGb@Kj@Kh@Mf@Mh@Sl@{@nCMb@Kd@Kh@Ir@Gf@If@Gp@Et@Cz@?d@?H?^@l@@d@@l@Bj@BrA?H@l@@l@@l@?l@Aj@Ej@If@Qd@S^IFOP[R]Rw@f@YVk@bA_@hAuA|F_BtGS|@Ih@Gj@Aj@@j@Dj@Lf@@DJ`@j@pB\\nAJd@Nl@Hh@Bh@?l@Ch@Gh@Kh@Od@Sb@W`@YZw@t@[\\W`@Wb@Sf@Qh@Ml@Ml@o@|DMn@Ml@Oh@a@tAMh@Sx@EVUnAGf@SjAUxAUxAo@tDUvAIf@Mf@Qj@M\\Sb@S^U^W^Y\\mAzAo@|@q@|@y@hAw@hAaAvAwE`He@n@QV[f@qC|D[f@y@jAw@lAg@v@]j@]l@]p@m@tAWh@Yf@]b@}@v@e@Tc@TeAn@c@XaBtA_@Za@Rc@Je@Fe@?e@A}CKoACg@?E?_@Bg@Fg@Lc@Nc@Ta@Xa@ZaB|Aa@^c@Za@XgAn@e@TgAr@a@Z_@\\_@`@]`@e@r@OTYf@Wh@Wj@Uj@Qp@Wj@Qp@Qp@Op@Mr@Kr@Ir@Ir@Er@AXCZCt@Af@?LAt@@t@@t@@d@FdADt@Hr@Jr@Ln@Pn@Rj@Vh@Zf@\\d@`@`@`@ZhAp@d@Pd@LfAV^N\\TXXT^Rd@Lf@Hj@Dl@f@pO@VB^Fv@RlBLv@Hv@Ht@Dt@Dt@@t@@r@An@Al@?h@Bh@BZ@LJd@Nd@Rb@JPJNX`@nB~BZ^V`@Td@Nh@Lf@Fl@Bj@Cn@El@G^ALOj@CHMb@Uj@Uh@[d@]d@}DxEa@b@]d@[l@uAhCYl@s@`BgB|DYj@[h@[f@_@f@]b@a@b@cA~@c@\\i@TEBA@YPaBdB[`@Uj@Sj@Ql@]tAOd@S^WX]T]N_@Fa@@a@G_@MaB{@c@Oc@Me@Kg@E[AKAg@Jg@Lg@Pe@XkAz@e@Zi@Vg@T_Ct@g@Ri@Tg@VwHxEmAt@e@\\i@VmAv@kAz@e@`@iBbBc@\\c@Zc@Rg@Nc@He@Bc@Ca@Ka@Sa@UKEy@g@gAm@c@UoAg@_A[cBk@oAa@g@Qe@Me@Ec@?e@Ba@La@P_@^c@Za@Vc@Ve@TeEjBkAl@_@\\]`@u@fA[^a@Xa@Va@Na@Ta@XcBrAa@Vc@Rc@Le@HmAHe@?g@Gc@Ie@Qa@UiCaBc@WeAg@a@OOE}Ac@mHwBaD}@c@Ie@MgBc@c@Ia@GMASAa@Aa@B]F_@L_Bl@_@Lc@Fc@Dc@B}BLU@q@B{@Fe@DiBTuBXwARy@NKDKD]J[NWN[PIDMJOJKJON]^MRONMV_@r@Uh@i@nAeAlCsBpFiAzCa@~@U^WZYT]T_@NeDh@_@H_@LYL_@PWVUXQ\\c@|@SZUVGF{@x@m@h@UVWPWPWLq@RWDE?oAH}@D[D[DYJMHIDUPURqArA[\\m@p@q@r@qBvBWVMHKHYPwBfAqBfAWNKJGFSTQVQVc@p@MPWXUPULWLq@VIDm@VWJ]NWJSNEDKLOTOVELWj@gAlCIPOXQVQRSRu@n@????",
+        "start_waypoint_id": 319391401,
+        "end_waypoint_id": 319378871
+      },
+      {
+        "id": 377448898,
+        "distance": 27.496,
+        "time": 1564,
+        "use_highways": true,
+        "encoded_polyline": "mfrmFd`olVaCxBo@j@OJmAbA_CtByApAq@l@SNoAfAQL_@ZYPMHKFcCjAKF]L]R[R[R[ZMNa@b@m@v@iA|AqAhBq@`AsAjB_AnAc@l@]b@{AjBa@`@_@f@a@`@gCtC]f@a@b@y@`Ag@b@c@X}GjEc@Z]X]`@u@lAeCvE{AvCKTYf@MVKNuCtFs@pA[h@wAvBaBdCMPa@l@[h@sCjE]f@_@d@_@d@_@b@c@b@kBfBmBdB_DtCaDxCa@b@]^]b@]d@]f@Yf@kA`Cm@vAUj@Ul@i@~AGNK^Qp@Qp@sDxOI^U`AgAnEq@dCGR{AfFOj@k@hBi@dBAB]dAe@lAEL]z@g@fAQf@KPa@|@e@|@Yl@e@|@_@v@i@dAOVGJSb@[j@O\\IPIRQ`@CBSd@Qf@Ul@M^EL[~@[jAGRU|@Kd@IXKd@m@dCy@dDgAtEYjAKf@SpAKt@E\\OrAEh@GnAGlAAr@Af@?R?rABrDDbD@nAFhFHzHHjO@`A@z@@|@BlA@`A@ZC|AAp@En@En@Gv@APCVKl@U|AMn@I^ENOj@Sn@Sj@Uh@Wf@Ud@Wb@KR{@xAqBhDu@pAc@r@cAbBABILw@xAUd@aDrHEJoAtCk@rAO^sA|CQd@uAbDuAbDcDnISbBKv@OVSP??G?E?IDGFCHCJ?J?H[vA_@hAy@rAgArAgAlBkAxCo@rAi@lAm@lAu@jA}@tACB[f@{@nA]f@_AjAaAjAeAhAgAfAe@b@a@\\ABc@b@YTMHg@\\ED_@XoAz@g@ZSL_@Re@VWPy@b@YPqAt@IDaAf@SLi@Zm@\\kBdAs@`@MFi@\\_Bv@sBhA_B~@iB`Ak@^cCrAUNYNqF|C[PiAn@eCtAe@VYPk@Xk@Xi@\\yAv@wAz@cAh@_Ah@{DvBuDtBeDhBA@}BpAeGfD_M~GSLgDjBcCvAi@^i@`@i@`@g@d@e@b@kAnAc@f@a@j@a@h@_@l@u@nAe@|@]n@[p@Yp@Yp@Wt@Wr@Mb@CHCFSt@Sn@U|@Qt@Ov@Ox@Mv@Mz@Kx@Gf@APATMnBC^?POnDU~FEpASzFYlHG|A[hIEvAIzBCp@IxBMtDGfBInA??UCuD@mDBw@@m@?iB@U@eAAWCWCYEgBa@cDw@s@MmAQg@EWC_AA}I?yA@[CYBo@?SAOGEE??GGGSCSAW?[@}C@uC?e@?c@@c@Dc@HaAX_@L]F]Fa@Ba@@a@B{BAm@Cg@AEGIe@c@KOs@y@QSg@k@QYCC_AeAm@u@Y[S]mB_DWe@S[W]WYEESOYQ]I]C_@AiA?kD?{@?M?uAAiABe@CiBAG?a@Cc@@_@?G?a@C}C@iDB}CBaC@]?[C[IqB{@{Ak@q@Sm@S_Be@}@]]OoAy@[[MIe@YYI[K]Ia@Cy@Ai@Eu@?cBDkDTcAJaAJa@@a@Ca@IUQg@C_@O_A[a@K[GiAU_@KKAUEa@G_@M_@Q]U[U[WY[uAyBeAyAW[WWYUWQCA[Q]O_@O}Ag@_@IcAMa@Ci@AYAa@E_@Ga@GaAMeBQa@A_@@_@H[LwAt@w@b@w@^YRMJKHYZKJyD~Eo@z@U^U`@U`@Sb@kArCe@hASb@{BpES`@U`@W\\IHeAhAY\\Y\\m@`AW^W\\[Z[Xw@p@sAfAqAbACBuAdAw@n@}@v@mAdAYV_@ZWTyAjA{@h@]TYXu@r@STmBvBY\\W\\{AbCeDdFU`@Q`@Ef@Ih@Eh@QlDCj@Gv@MzBIrACj@Eh@Af@?VAVBj@Fh@Jh@Fj@Hf@Fh@Jf@R`@Fl@Nb@Pd@R`@^lARb@V`@n@|@V^Rb@Pb@Nf@Hf@Lf@VlAPj@ZnAXpANd@Lh@Hf@Nd@P`@T^P`@N^P`@Hb@@V@L?d@GhAIf@Mh@Gf@e@rCAJKh@_@~BUpAYpAOf@Od@Qb@Sb@S^U^U\\YZKFe@`@IFYV_An@KFqAx@y@n@y@p@w@t@S\\a@Zs@p@WN_@N{AR[H[JmB`AYNUPQTa@x@Q\\U\\UZo@r@WV[R]N_@N[N}@V_@T}@Z}@`@_A`@]R]Ry@h@y@j@[ZYTiBfBYVYTIFQJQJc@V[RWVUZ}BjCW\\m@v@S^Q^a@dAQ`@U\\YZSPED[TWTUZS\\e@~@S^eAvAU\\U`@}@dBO^Ub@w@dBSZWVYNWJoBd@WD_AT{@X}Ah@}@Za@JC@E@q@L_@J[Ny@b@]X_@J]N_@L_@H_@Fa@@a@?a@A_@?_AC}@?]B_AN]J]J_@LyCrA}@^}@^]L[L]P[Ny@h@w@j@yA|@{@d@_@N]L_@D_@@cA?_AA_@A]E[KWQSWc@s@SWUUWQYOYC[A]@}BN_@D_@H]JUNWTYNy@h@qAbA]TYRWTa@V]Lq@n@u@h@[L]J_APa@D_@DaADc@@eB?a@Aa@Gc@I_@Mc@I}@Y]I]C]?_@@_@D]F]J]JyAt@wAfA[V[XYXQTEDU\\Q^O`@M`@MlAId@K`@AFIXGPUj@UXUTWPaEfBuAl@YP[Pu@j@WVs@l@YR[P[N[H_@F[B{@BuA?u@?Y?{E@O?aB?}@?]?[CWISOOUM[I]E[CK??bA_@??M_@MWGWMWSe@AKMSI[?_@?YDWNORBPJ??????",
+        "start_waypoint_id": 319378871,
+        "end_waypoint_id": 319404605
+      },
+      {
+        "id": 377448899,
+        "distance": 7.77,
+        "time": 849,
+        "use_highways": true,
+        "encoded_polyline": "atqnFrvlmVQKSCONEV?X?^HZLR@JRd@LVFVLVL^??cA^??EWOcAIa@I]Kg@IYMc@Qa@O[SWSUUUY[kAiA}CsCYYUWUYO]Ma@YwAKWKQOIOGQAS@i@FUBUDUFUHg@Xi@XSHUBSCQGOOMQMUKSSSQKQES@aAVWBY@YCYEWGYKECOISOMOEQ@QFKFEBAL?LDLDLDN@NANILMHQPo@JW^}@JYLSLQPORKTKRITGf@MZKPMLSFUBW?WCYGYCGGOMYYq@OWOUSQSOUIk@SSMMQIUCU@m@AWEUGUMS_@c@OUMYI[E]Ey@GWKSMQMUQc@AKQm@IQMKOOOMQKe@OOKIOCU@UBm@@WAWA[?Y?]B[Fw@B[?YCYGUKUOQu@q@w@{@w@_AOSKUEY?[DWNm@ASCSIKOGQCQCSEQKOSIWCY@u@A[A[AYBYX_ADW@WAUGWIS[g@OQMQGUAW@S?S?UEUGSKQOOOMe@WQOMUIWQq@KUMU_@g@OUKYG[A]@[@]N{AB]B_@@y@E]G[K[Ws@MYMWOUMSQQQMSKUGi@ISCS?SBQHMNKRKVMt@CZAZ@\\Fz@DZFXHTNPj@b@FJ?NEJIDKAKEKIe@i@MMOKe@WMQMQMOOMQKQGSAk@CUEg@QSCU?U?UDQBU?WCi@OSIOMMQGSOm@CYEWGUKQOIQCc@@Q?QEQGOIOKKMCS@QDK@CJMLKLM\\a@`@a@RMNMHO@OAKGIKCK?q@NSBS@UAUAUIUIk@YUKSQOUMWKYSw@Oy@G[IYKUOOQISAM@C@OLMPMRMTIVEX?XFx@D\\@ZFXJRLH`@NLFHL@NKRUAc@UMEa@IQGMOKQIUGWGYCYGYAYEWAWEUEQIOKKKMCOAS?UDe@?SCSCOGMEGKMGA??E?IL?H?LFLFLDL@LId@Kb@CP?R@TDR@TATGPKNiApAMNGRCT?TBTHh@?PELGH??IBK?YGMEMKKQEUAW?WAWEYEWEYAYBY@]Da@Jc@Rw@B[@[AWGSMOQISCSCSGQMMSKSMSOQa@_@OOOIOCOBKJIN]|@CT?TDPFPXZLFJJDNALILK@MAYQOGOESCSGSKMQQc@KIIAI@GJELAPBRHLl@r@PH\\THLDPGJKHKAIESWKIOGOCg@?SAUGSGOCO@KHGLANBPFPHNJLDNBPCJGHIDMAKEk@]{@YQMQQ]_@KIKCG?EJCH?HFPDH`@\\Z`@HVNp@JpAFVPr@Xn@j@`AFRBREPIJKDMAKGKKKMc@u@MSWo@IYWi@OMOIQE}@IYESCWAS@UAe@KOEM?IDCH?JDJJJLF^TNNPLj@RRHRNb@b@LPHLBPCNGHK?KEWMMCO@ODKLINEVAVAVCVERKNOHQBQC]O????",
+        "start_waypoint_id": 319404605,
+        "end_waypoint_id": 319379065
+      },
+      {
+        "id": 377408892,
+        "distance": 26.351,
+        "time": 2009,
+        "use_highways": true,
+        "encoded_polyline": "atvnFzihmVCAQESAi@@S@S?OKIMGSEQKOUu@K]OWIIKCI@KDEd@?j@?V@TDRDPBR?NGHIBKCIGO[Qa@KQMOOOOOOIOEK@IFEL?LBPFPHNLPX`@JTLl@Pb@DP?PELMFMAKIGOEQUg@MOa@i@KWISOQOEM?KFILOd@IPOHODS@e@ESCQ?UBSFSFQLQLONOPOLQFM?MCMMg@[KMGO?SDQPa@HQFQFWBWBW@Y?WCUGQKMMIOCO?Q@Q@UCQIOMa@QQESAQBQFOLMPWf@IPGNMJM@KAIG]e@MMMKOIOEOAODOHa@XQJSHSDUDK@uAHU?UEUIUM}A}@WMYK[Gu@I[EYKWMUSSUQYa@w@M_@M_@O]Q[UYUWYUYQ[OYIWCW@aBXY?W?UGo@QIAI@QFC?GFILGNIXELCRCRGl@EXETGTIVKTMPOJQFg@Am@EW@WDYFWHYJWLSRQTa@n@SRUJWHYBy@Bu@J[DW@WCWGUKgAs@UOUMUGUEYDUJSRSXsCvEELILi@~@c@t@ILMRSZA@WZYH]^WNYJYH[HS@q@HiBTyAJYFWHUJOTMZOX[x@SXQTs@XSJe@f@QVKZo@nCKb@M`@M\\MXEFEDc@l@ON[VIHKFIJIJELKNOVQ`@GRGTa@hAKT[j@QTQRg@`@SNYTWJWNu@X]J_@Fo@Jk@F[HYLWPURUTUXA@QVUZe@x@q@lAmBlDS\\SZUZUVYTYRYLWHSNQROV[v@M^M\\S\\I`@{AdEa@`AO^e@v@SXUVUPWNq@ZWNMHIDUTSVQZO^O^Mb@Sx@Qp@[jA[fAKd@SfAK`@M^MTEDSZWXWXUVYRYPYJ[D[?yAGWB[Fq@Tm@TUFSDWBU?WEUK_Bu@iB}@WUQAQC]B_@DYNy@TM@MAKCIEIIEICM?ODMTg@Xq@HOHKJILEZEJCJGFKDO?QAQGQQa@IQEQCSA_@I]IGICI@IFIJWh@ILIHMHMFODODe@Ds@JOBQ@u@AQ@SBe@Ng@RSJe@XOL]\\o@n@a@^QJs@\\_@R[T_@h@KJODcAL{@RSFg@RIF]RQPORMTITEXAH?HAR?d@AZAXEZEVQp@a@`AKV[hAIXKTMVo@~@KT[x@KNMLQFc@JOFQJOLONMPIPUh@KTOPQJSHSLQNOHOR]f@_@f@OPc@^a@b@MTKVKf@I^IRMN[XMJa@RQFQDOBODMFKJILIP[z@g@lAQf@KPMJODM@MMKMIKMKOIOEQ@g@FS@QBQFa@TSFc@DMDMJINOj@ITMTOPONQNSHg@TSLQLOPORm@~@QPQNSFSDI@K?UAk@Ee@I[QMGMAKBKHU\\KNOHOFu@Dg@HU@S?SAQEQGKOISEUEWESIUKQUi@IUIWIUKSOSMKQIQAQ@QFQJ[\\QNOLSJc@TQFi@LK@a@JOFMJKNGPEREXGTKR]VMPSBOBQBODQHSDQBe@@Q@QDQHOJkA~@UL_A^cATSFSLON[f@MRONcAx@MNINIRGRITMNOJSDQ?QEOCO@OFMLUb@OLOJQFQHOJOLORc@`@e@`@mAx@e@ZUJg@TUJQFoBfAa@ZODWn@GXCXCZ?ZDtA?XCXEVITMNMJMNMNGPER@PDPFNT`@JJ\\XNLJNDP?REPIPKN_@\\QLOLc@VMLMPGRGRMh@Gd@AT?R@RDRHPTb@JPHRJRT^HLFZDP@V?PETQ`@IL[PMBO@KKWCK?KFIHMFg@PKHIHGNGPEPIv@CNGLGLKJUTKFMJMHMHOLOJOLMNKPIRIRMh@GNMJOBOCOI_@[oBkBOQMSISIQGOIKKAM?M@WTGPGNENCRIZOtACZCVCV@ZHtAHx@B\\DVDXBTLl@Dl@AZARGTIRKRq@^e@TODSPq@l@QLSJOHONg@l@KNINGPGf@?VBhAKnACPMJODYBYD}@j@e@ZqAr@QLUL{@`@y@\\QJODMLMNKP{@hBSh@On@APOd@GNMR]`@g@v@INQR[d@Qb@ITo@fAg@f@]f@KP]d@QLONq@XSJOH_@ZKNYl@KZWx@Ml@IXe@zACHIXGZGZALGd@Ix@Gn@Cr@AZ@^?^@\\D|@Jv@B^FPD^BTHTFRFRFRBHC^ETIPMLMJOJQLa@VOL_@TMTORKPKPGVERAV@XDp@?VCTGPMLMHODMNQHONUTUZc@`@UNSXEPETAN?D?VBTNn@Pn@DXHt@Br@At@IpACr@AVCVGTKPMLOFQ@OCQIOK]USWYc@MMOIQAe@FSFi@N[H]JODS?]GMGICOIMOIUKQSe@ESOMKMMEQIMAYa@IKWa@Wg@ISUg@GQIOII]Ma@COCO?]DOF_@VQJODWJk@JQAg@C]G]Ay@?W@QFMJYN_A|@IBKHQCMCKGMEaAq@o@k@][KOQWKGKAKDMHILKPKNIRKNQLQJ_@Va@Rc@VOHc@PSFo@F_@?_Aa@OEQMOISIQEQ?c@GQGOGMIi@i@MOEKGCMI_@_@[UUGq@?QDg@VSFWNWHQ?MBO?OCO_@EQEUGQKQGSk@w@[WQIQKSIUCUC[AYDOJWl@ERETGRILKHKBKAKGGMK]IKEKSCYCS?[Ag@GMAs@JQ@c@Ae@Km@Y[Q]Ke@Gw@OMIMKIMMg@?UESISKQMOOGSOUGg@SQGQIQSC?ICMMIOGUESKg@[WOKSIQMOMMOWq@Oe@O_@KSKUMQMQKQEIQWYYWWk@e@OKOI_@UOOQK_@[OKMSKSUo@Wm@g@_ASk@MOSESAu@KOEQKm@a@MMGIWq@KQKUOMc@WQCQASFk@d@s@Vg@DU?[BQD]Hk@\\OHK?MCKIGKC]@QDOHi@@UAUISSi@]{@Qe@EWEYCUAYIu@EOAGKUMOy@WWUU]MQg@k@[]OKMGOEQ?OBk@`@[NQBO@QCOEc@QKGEEOQMOYg@KSKOKUKSMQMSKUMQGWGUCWESGOIOOIOCSAc@?Q?QIOM[e@Yk@MSMSa@g@QSMUSIOOCa@EMCQc@s@MOMMQI_Ai@SMQOw@c@OKYg@a@{@s@{AEM_@gA[w@MYQYQWQU}@}@QSQUOYM[K[K]I_@Ca@?_@Me@Ec@DiB?eAAa@E_@G]M[MYQSkBkBQ]SYS[Q]a@y@Q]QYi@q@i@m@UYSYS]Oa@Oa@Mc@Ke@Kg@Gg@Eg@Cg@Ac@@e@B_@Ha@N]RYl@c@RQRWPYH_@P]T_AFa@NmBFc@Jc@XaAH_@@K@U@_@A]EYKUQOQOi@[YEYMq@a@[QYUYUUYg@m@QOSKUEW?m@HW?k@COCQEOQIUEMCIISG]E_@G[I]Y}AU{@GYSUIUIMCCMMSGS?S@SFSNOTOTKVIXGXMTORONSHg@DO@QJONITEXGxAC^C^I`@QbAK`@K^S~@G^Af@E`@BbAA\\C^G\\M\\QVQTSRSNQPOPMTITGXEZGz@ObBC^C^@^B\\FZLVNRNTHVBXAt@@V?\\BXHfA@T@RAPGRIPKP}@rAONe@j@k@n@CZC\\Fn@DVJVHXHZJ~@DZFXJNT^HNFPDR@VSbASJMNQL}@ZaATWHi@XeAb@ULm@VSLQPORQRu@v@MPORMTITOp@GVKRMVW^s@x@OJQHKHMLKNGPGTEVEVKTKROPOPADe@|@i@pAK`BEXEXGZI\\MVOTORMRIRETAV@XBXDx@?XE\\GZIZ_@hAGVG\\@VBn@@`@BXDVFVJTLPPNRJ~@b@PLLNHTDX?VARAL??MLKFMBO@ME]Q]Y][KOMQSg@KSw@aAYWu@c@KQYw@Sk@Um@q@aBWm@IWy@qBAGc@mAm@wAUi@qAwCaAqBMWOWc@k@SSQQSOSMSKSKe@OOEu@MM???Je@BK@M??HKFGJEb@O^MTIJCTAR?HCPGPKPKLO^]jAiAn@s@fAsA\\e@Zg@Pe@FKFEHKb@YVUVWHKJMRYd@k@v@q@n@m@lAqAHIDKBO?]@OBQXaBFQVsAJ]DOTaATcBFc@@q@??Og@Oi@Qa@S_@UUQMIQEM?UE[CO@UHONSL]Lm@Hq@Di@BQJMLMLUJu@HcABy@FqABa@Hc@Bi@Em@C]KKKAMDGJKFK?IOWgBK]OOGM?MHMHIFO@MKKWIy@IOEGI?GHKVOh@Qb@In@YLKDM@QEQKYg@{ACM?QJQFMDQ@SAY@OBKBYAO????",
+        "start_waypoint_id": 319379065,
+        "end_waypoint_id": 319378958
+      },
+      {
+        "id": 377409121,
+        "distance": 127.1,
+        "time": 6432,
+        "use_highways": true,
+        "encoded_polyline": "i}ooFdfnmV??@NCXCJAN@XAREPGLKP?PBLf@zAJXDPAPELMJo@Xc@Hi@PWNIJ?FFHNDx@HVHJJALGNIHIL?LFLNNJ\\VfBHNJ?JGFKLEJ@JJB\\Dl@Ch@Ib@C`@GpACx@IbAKt@MTMLKLCPEh@Ip@Ml@M\\ORINATBNDZ?TDLHPPLTTR^P`@Nh@Nf@??Ap@Gb@UbBU`AENK\\WrAGPY`BCPAN?\\CNEJIHmApAo@l@w@p@e@j@SXKLIJWVWTc@XIJGDGJQd@[f@]d@gArAo@r@kAhA_@\\MNQJQJQFIBS?U@KBUH_@Lc@NKDGFIJ??ALCJKd@??IAOAg@@i@De@JODc@LMB[P[R]Za@b@{@~@mBbCeAnAm@v@oAlB]h@UZUXONGFYTWLWLYJw@R{@Py@NoCl@WBI@YH??@f@?`@?DCHCF??ABMFK@m@Be@HYFa@TKBMBM@O@k@PMJMBM?MAa@@MA[@YDUHIHELWf@YPQJWHa@R]PILKHKDKHQVMHMNOHSPMBGV?N?d@ALCLOVe@VMNOTAN?N@NJr@@PBNCj@Cj@@h@?REPCNINGPId@I|@Dp@AX@VBVBr@CXGr@AV@X@X?V?VCVMj@CTEdAEX?VAXITERSl@EVCXCjACVGRS^KNENEV?R@TJ`A@T@T?THj@BTBVAVATITOl@CVAV@r@HpA@Z?v@AXGT?h@FNP~@?RCRERERATCXEVKj@CVOrA@NHh@HNDNBRA`@CNITYp@GPCNCR?PBNFPHNXV\\NLFJJHJFN@TAPATBRAT@V@VFp@DVHPHPLJPDLHPHPJh@dAFTLn@Dh@@T?TBXFRJLVVLPVXDN?NALEN[l@_@x@MRIPEPCX?T@T@RENQXMPCXIf@INMLMHMLKNSb@GPMTIRCP?TBRDRDR?PGd@CT?R@TBT?TATGRMVILMNODMHMJIPMPi@j@GP@R@PFR@N@RAR?TSzAIXEXETCVAX?V@TT~BDXFXJp@Jp@Dn@Bp@?\\C^Ch@E`@QrAETIRUf@Yh@oApBKNCBIFMH{@b@OHOLMNIPGTCTM`BCX?X@V?VAXUbAETCTGRCV?THhA@VBVFRVd@Nj@Jf@Pb@HPHNJNLJLHNBRG^AP?N@JBJDHHDLBN?PCREPGNUZKNINIRGTKj@ETARAVDRHPDPDR@T?RATATERQh@GR_@|AIn@?p@@bABTFj@DTFTHTHRLNLJPDD@J@NDr@HLCNGNKLKX[NKLGNAN?JFHJDPBd@HRJZBHJd@DT@R?T?d@@NFJFJJDJ@LCJEJKJQJKDKJELMXMJGNMLELENCN@NDNDdAXNHNLNFd@JRFh@Hh@BR@PAREr@YREP?R@PD`@NNBP@NENIn@k@PMZIJAL@JDHJFNNnALj@Nh@Xv@FNJLh@`@JJFJPHJJhAt@JLLH^R`@N`@VNN\\b@Zf@j@p@VZLJLHLDNBb@DP?R?RAREv@UnA[LCL?NBLBLFLHLJLLd@j@LJLHNFh@LLBNALCLGJIZOLGLEVIVB^?`@Bb@@PBNFNFLJJLFJDN@NAPENK`@GRCRAR@TBTDTFRRd@FRDRBVDbA?TCf@?PDNHLZPXVLNHPHRNh@HPHRLLLHNF`@H\\DLDLHRTHHH?HEFKDMDe@BQFQHMLINEPCPEZDRAJDL@NALCLGTMHKNMRMZKn@GN@LCRIHALETGXQ^g@LS^YLIZOl@QHGLCp@QNMPYTaADMFMHKJGJGLCVET@J@LBHDXNf@TtAb@j@VXPVRJHJJJHJBL?LALELCLCL@LBLHJJJLZj@HJJFf@JLDHDHJHJDLDN@PANA^?PDLHJJHJFNDZT\\PLHLFLFHHLFJDN?LCNKLCVQRCJCNGHILQRIJALBJFJJRZJLLHLDNDbAXLHP?R?R@PBPF`@RLJLJHHHLFNDP@R@f@@r@C`@Cx@AR@d@BPBPBNFNFHJFP?LBDFTLHHFLBN@P@RAf@CR?TAT?TFv@?NENGLKH[LMHQHu@^QRMTIPKNu@xAU^W^IFc@j@e@f@s@n@MLININe@xAEXGhB?JBLFHDFHBPEFGDE@EDKRu@DMFKHGxBc@z@Uj@?\\FZCj@`@R?h@CRFf@\\`@@B@`@Gt@k@VWX?FFDJFLJd@\\~@JTJVHXDXFd@F\\DRFPHNLLLJLLLPLF\\\\LPNLLNHJLHT@RCj@SRALDNFh@`@JJLHNFLDLFLJHLJPBRPn@FHNLPA`AWLC|@J~ABz@G\\?\\RTFh@Kz@]f@c@j@Un@Uv@Un@CXHf@Rf@FPALIV?HBFDv@d@JHx@`@^Vb@RTVFDHLDHFLDJHJHPHRLb@BLNz@Dl@B\\?^?LAPA^A`@CPCNG\\ELOXa@r@EJAJ?J@JDJDFFDHBLDP?REtA{@HCTEzAWNCJCN?N@LFPPJPDHFRBX?J?NCN?L@NDLDHFHLNHDJNh@XHBFDFHDHDJBJBVBJBJDHDFHDFD~Dt@PNFHHFtCt@x@j@\\\\^TLHNJHPP`@R^FNFf@BRDRFRHP\\ZFFBHFDJ@HFfCtBhAvATPhBh@l@Jx@B^HZLjAx@xChB\\Z`@d@hAlBbAlANXNb@b@zBj@nDL`@j@vANd@TrAN~C?v@JfD?bAZrD@lGAtAWlCk@|COdAGz@EpAApAEh@Ah@QnB?~@BXHb@LVFNdAnBnDxFtBpCl@`A`AdBJd@?P?ZEx@FZRXh@f@JNL^PhAZxA~@~BFVDb@?|ADnBCb@I`@S`@OJUJ}@Ju@Gy@?]H[XQVyArBe@z@W\\a@^OVk@bCE\\G|@Kn@C^@TJdACb@GVUl@YrAKVS^YZ]VwBj@oARs@Pi@TiAj@i@\\iB|A[XMRsBtEqA`BU^]|@Mh@Eb@?jBCf@Gb@UfA_@xAUhAO|@IfAEfA?lAGr@Bl@LfBJx@JpAAzBC`@_AlE[xE[tBk@bDOzAKbBGd@EV?ZGj@GXQ|AMv@c@pBQbBOr@AR@\\GdAQ`CKt@?\\??tAd@pCdAVN\\VVTVZT`@LXd@nAj@zAx@dCjA|CJ^bAlDNb@Xp@Zr@RV^ZvAdA`Al@v@RHD??ZIZ?h@EPKLOl@aAJGJGJALHJNJ^?LB`AF^HXZXTNd@RLRFRNf@P\\HJJJNJt@Xz@Jf@@ZHPLHZD^Bh@Pb@XTj@V\\Hh@T|CVjBZ??bBOx@E^@bB@`@@d@HXLLJNRJTDJLFJ?LGHMXcAN]NWVOVKPKZGd@KZ?TB\\JPHRTNPJJHBHAHCNKZ]TOTGVEd@Ff@Jb@?\\At@AZBb@Fd@FT@PAd@EVE\\MZSn@]z@_@r@a@`@OZGTEPEPKVQ^[`@]NMRERBLFRPNPRPZRj@X`@TXRJLHLHTBXBn@Dh@BTFPHJLDPBbADv@FVDRHVJR\\DLBLB\\Bz@FPBDLJH@J@j@AbAIN?PBJJDF@HBVC\\GXO\\KTM\\AF@JBDHDJARUd@s@Zq@Pk@FYBY?YGWISQWAGEIAGAGAC?E?C?C@C@E@A@A@C@?DAB?B@D@DBBBBDDD\\h@r@zAPTJDP?PC`Aa@VC^?t@F|@FXBdADXDVFZPr@\\VFDBNBRBb@@DALCr@Wv@a@^UhGwD~@m@r@_@~@s@~Gi@x@SLEdOaEbV_GhHqBvCmA`@Kp@G|@G|DIzAAx@ELAb@Eb@GRE|EeAjCi@JAf@CtCIT?lACxBCtCCzBMjC]b@K^IPGDANGrDcCXQ`As@pB{AlAw@r@_@LCp@MbAGbBCbDE|DEzBEj@D`Cj@`@Br@Cl@Gx@MnBe@??dAOf@Cb@EhJS??AeE@IAyFCsE@cADSBMFSPQLIt@YjAc@VIPEn@CdDGpCEN?D?^@f@F\\FbAZdCz@LB^Cb@Gd@SPMdBaA\\SZIXCf@ElCAR?N?xDCb@?dI@XAfC@VB|HAN?lHBbA?rJ@hE@|@?bB@bA@lHBnBBjGBvG@F?fKBN?T?`VDdM?F?~@?\\@dA@`@?jA@B?jHBX?~AAtBAZ?rPBnG@xBA~CB~EAdG?`PBhC@tA?jA@p@Bn@HDBVFn@VNHt@h@l@l@j@x@Rf@Vr@n@~BfBlHx@`DfAnELh@Hj@DZD`@Bf@@j@?Z?tBBzBFd@Hx@Lx@XzAXdATh@f@fAd@v@d@n@xCdDtBpCd@p@l@dAf@bAVp@n@fBRf@Xf@V\\j@f@f@\\VNp@RbEt@x@Rx@Zp@Zr@b@LJLJjBlBb@\\ZNHDh@N~APj@NJB`@V^`@NTVh@Lb@Hb@Db@@l@Cz@Eh@[|BIbAAf@@n@Fx@P`ARr@Rd@DJPX\\^`@\\XRf@VZHn@FrFEf@Ef@Mb@Q`@WZWtA_BZUj@W~@Mp@Gr@ET?^DVFf@Pd@VNNVXXl@Pn@Jj@Hz@Lr@Pd@R`@^d@TRf@Zb@Rh@Hh@Bp@Al@@x@Fz@Ll@NbA\\t@^DBb@Xp@f@f@d@d@b@l@~@xAfCTRNN\\X\\TXPb@P^LpAZZJVLd@Tb@ZZXX\\|@pAfCzDT`@Rh@FNLf@Jj@Ff@??B|CD|DDpG@p@DZ?T@h@@l@Dr@Fr@PjAPx@^dAVv@^x@`BpDZ|@b@hAb@tAr@|CnAlFt@~CzAhFVx@Jj@Nr@Jv@Hz@FhA@nA?tDBhDHzAJz@Lt@HZVt@Vh@Xb@f@n@t@p@fBrAzBhBdBrAVTVVV^NXh@dARn@Rt@RrAVlBhAjIVnA`@tAVp@Xn@HNr@pAhBhDl@nAh@lAXr@Rn@TfAPjAJlABlABpA?rACnAO`CS~CUfDMfA_@fCi@tCsBzKa@~BMjAKbAG`AIfDGzDAxAMhEGzE?`BI|CE`DEzCApAB`BRlDRlCHrABv@?`AAv@Gp@K|@Q|@W`AWx@eBfF}AtEe@xAQ|@Ox@It@Iz@G~@En@En@Cf@IbGOvFQzJQxIArADdD@\\JfAFZ`BrJ`@nBF`A@p@C~AGz@Kr@S`AUr@Un@Yh@]f@q@r@iCfCMLEDgB~AqCbCi@p@g@x@c@z@Yr@Y|@Mf@Or@ObAIp@Ef@C\\Al@Cp@?r@@r@Bn@@TBZDj@Fd@H`@BNBRJd@Pr@N`@rFlN??TfAd@bBXhAHl@Fx@@l@Ct@E`@ETId@Sd@UXWVUPg@Rc@Hk@FaATaBLy@LkAR}Ab@cBj@qB|@_LdFkAh@i@Ta@Pu@`@uI|EiAh@y@`@mK|EiB~@s@b@i@\\_@X_Ap@k@b@y@x@}@|@c@d@[^gAlAORe@n@y@hAy@pAU`@e@x@iDnGk@hAmAzBa@v@_BhCi@p@sA`BaKdKmBzBoAbB{@xAo@rAy@fBc@dA[bAy@pCoEnPo@hBk@xA{@lBeFtJsCjF_@r@IPINEJQ^Yp@[t@q@pBYz@EPg@~AOl@m@|BkAzFsBfKEd@@VeHv]y@|Du@zCk@rB_AxCaAlCiAfCmI|QyFjMmArC_A`BaApA_A`AaAt@y@j@iAf@iA`@gIbBy@J}@Du@J{@T}@`@gAl@eAz@q@n@aEjEwArAkAbAgAt@_BhAmA|@uAdAUH[NqDdCo@j@c@^o@p@m@p@u@dA}@vAe@bAcAhCaC|F{@xBUh@k@bA{FpI[f@u@vAc@`AQf@YhAUbASpAQ~BQrDCf@Ch@O~AQhAa@|AUp@ABO^g@bA}@pAmArA{@z@q@l@i@j@[^k@fAk@~AOt@a@dCu@lFQjA[jAOb@i@hAm@hAgB`D_FnJ[r@Oh@]bBIh@e@nEYzCEjA?JAX@`Bd@nGB|@@j@GhAMdA_@hB}@|DYjASp@[x@c@`A_@r@g@v@o@|@iLhMgBhBqAz@w@f@uBfAaCz@kAVc@Ha@@_@?k@?c@Ik@E{Ag@qBgAsCwB{AcAwAaAiAu@{A}@y@YcA]u@Og@Ck@Ao@Bk@Fo@Fu@La@J[J_@Ne@T_@P]T[\\[ZY\\[`@Wb@c@l@i@|@e@t@q@z@c@l@e@d@a@^i@Xi@Zc@Ri@Je@Nq@Fq@@u@AcAQ{B_@YCU@qB_@}@MOCsAGqAC{AFcBNwIl@oE\\qBReANoAPQ?]BuAV_Et@iAL_ANq@Pg@P_@Xc@b@a@l@oBrCu@z@e@`@e@Z_@Pc@Hi@Dg@?e@Eq@M}FeAk@I]A[?m@Fm@LWHYJ[N_@XYXm@z@OZWj@iA~CI\\EZWp@wE|M_E~Kw@rBw@~Au@lAIJs@`AcAnAqFvFmBrBaCdC_EjEcHrHgCjCcAdAi@j@aCpCaEjEgAx@kAp@sAj@yAd@}AVy@F}ADsACmAK{AWeBk@{Au@mOsIoAu@kCyAoMgHcH{DmEgCg@e@a@UcBu@eBe@wA[eAIoAKcBEmABeAF}APkARoAZ{@Z{@`@u@^sA`Ae@ZkAdAy@v@sH`IaHjHoAtAiDnDaKpKuBtBu@v@{BhCwAzA_BbB_BbBuF`G_CdCuMdNmC~BkAz@oAz@{A`AeBbA_D~AaDxAmBt@uA`@y@\\mDt@kCf@mCZqHr@gALeANqBb@eBf@mBx@yAt@qA|@iAx@_Az@y@v@qAzA{@lAqAtBaDfG{@rAy@jAq@z@i@l@gAfA}@v@{@n@iAt@oBdAyB|@wBp@iB^sBVcBJgB@aBA_BK_BOcBYaBc@yAg@yAo@mAo@mP}JeJoFk@]{@_@gAc@yAg@yAYiBY{AK{BEeC?eBHcBNyANkBZ{Bh@wAd@iAd@aA`@{@d@y@h@{@p@k@h@u@v@y@bA{@lAw@pAa@x@_@z@m@~Aa@pAYfAg@`CiArHsAzHw@lDaAdDuAbEk@vAkAdCcBzCaAzAq@~@qAbBmApAeBbBaA|@qB`Bi@^k@\\yAz@iAj@kAj@cBn@sBr@iCn@oARqEj@gBL{BHcCCsBMkC[_Ey@wCm@sBm@g@Me@OuBm@gA]iA_@e@S]QUM_Ag@qCeBkAu@{@m@aBqAuNcL_JeHiB{AsFiEo@g@}@k@eAe@kA]qASe@Eu@EgA?cMl@}Pz@aC^aNfCgAPgEx@aKjBsCh@eBXy@Nk@Ns@\\w@d@q@l@m@p@e@r@[l@a@bA_AhC]t@_@n@]f@k@f@a@\\a@T_C`Ai@Zo@f@i@j@s@z@a@r@[p@Yv@Mf@}CbNe@xBa@nCER_@rCQ|@[jAGT]z@e@t@e@n@k@j@c@^m@\\s@\\e@LeANaAFeAAq@EoASm@EkBB_AHkCd@cBPo@@y@EqAOsAYcEoAiBm@a@OWK_Bg@gBk@kA]cDcAiNiEqA_@aAQs@Ey@AaAJg@HUFuAh@{DhBeB|@w@d@iCfBgAl@q@Xw@V}B`@sB\\yBd@gAZo@Ve@Xy@d@qA`AqBbBaBbBqB|B{BxCyB`DkA~AoBxCw@rA_@x@[|@eBtGENa@nAaBjEy@bCaAhCe@`AUf@Uf@gC~Eu@lAcA~AcDtDuCrC_FnDaAl@wAv@iEtBqAr@g@^y@t@o@n@aBfBi@n@gA|AsBdD{AzBm@bAyApB}@bAQPg@Z]VyAbAwDnCwBbBgA~@_A|@]`@_@b@q@t@_BhBsCzCq@j@aAl@_@R_Bn@_F~AwCdA{G|BaIpCy@ZgAf@c@Xk@b@a@b@_@l@Yh@Yr@Uv@Ml@I~@K~ASdEI|@O|@YbASj@MZQ^W\\c@j@}@v@aCjB}@t@wBbBgHzFk@h@iArAW\\}AtBk@r@YX}@p@yE|C_Af@WJaBh@y@Ny@Fc@Bm@?aAE_BQmBWaAIcAEg@@o@Hw@Rg@T_Aj@YVa@b@m@~@MXQ^Y|@SdAK|@GbAA`A?LDx@Fp@Lz@Nr@Xz@Xn@LVxB~DXp@\\bANt@PfAF~@@L@pAEpACj@Kt@Q~@U|@[~@Yr@S`@yBdEKR_@n@Yj@OVq@nAa@j@g@f@u@j@gAf@s@PkALQBE?gDPyAPgA\\s@Xo@\\aAp@y@x@c@j@q@dAk@pAeB|E}@zBc@|@w@tAuAnBsBrCg@n@YVWP_@V[No@Tq@Ni@Hs@P_AN_BZcDj@_AJ[B}@@y@E{@Gy@I}@Mo@Ck@?g@@g@B[FYHSF_@Js@\\YNi@`@i@h@c@j@yCfEwHtKa@j@oBlCwAdBiEpEc@f@uAxAWXiAdAc@Zg@T{@Vc@Fs@DyA?oBCsBBi@BeETa@D_AHC?yBTw@L}@Xa@Po@Xu@`@o@d@a@XuBtAi@XYLy@Vk@JcAJiDJiBJcCVuCj@iHlAg@Na@P_@Tq@d@s@v@oCjD_@^o@j@c@V{@\\_AVeDf@mATqB\\uA\\a@NqAj@oLjGwAz@u@j@o@p@[^i@z@a@z@}A~Dm@jAYf@e@h@e@`@e@Xg@Tu@PSDOB}@NuDn@m@PgAd@e@Z{@p@aAfA{D|E}@fAeJdLyAjBi@n@g@n@}AlBoAtA{@r@}@l@c@VaNfHs@\\uAr@mAr@q@Xo@Pq@Lq@Dy@?cFQc@EuAAU?gBH_ALuF~@u@D]?C?q@AWAq@Kk@OqAe@eCcAa@Mw@Ms@Go@?q@BeAPi@N_Br@aAd@mGlC{B~@wC~@aCp@kD`Ai@VuA|@e@f@k@x@_ArAe@h@CBQT[f@o@|@ONe@Z[Rk@TeATi@Fq@@WAy@GqFu@o@Gq@Au@?mAL}@Ry@XSJ{A|@]Xa@^oAfBgD|EyA`Cy@nA[j@oAlBi@r@SZQRSZk@z@o@t@k@h@]T[Rw@\\[JmAXu@Fi@?}@CkHa@aAKs@MiAUsBq@_Ae@g@UWMQKcAq@uC{A}CcBmAo@cBq@UGi@Ie@C}@@cAPsDx@kBb@u@VaAb@s@j@y@t@k@p@QVW`@a@z@iAtCu@jBw@nBiAfCc@r@]b@eAfAURq@^oFzByHxC_Q`HkAr@s@f@qApAwAlBk@r@c@b@{AjAmAl@oAl@mGzCo@\\qCtAo@\\cAf@qB~@{Ax@]LsA`@u@N_ALkAHoADaF?u@@mDAmA?}F?kJFwA?uA?[?oAFm@DWFcAXSFs@\\eB`AwAv@o@Ts@Rg@F_@DqA@u@CaAK}@UiAc@[Oa@We@W_Ai@g@WaAe@w@UaAQq@G{AAuA@eECeEG{@Ag@@i@?_BGeBCqEQyHOiACs@C_BQuB]YCc@GWCMA]CQA}ACgB?qA@[?sGLeABwA?kABY@eBHeJ^}BL[@wAJ}@Fk@FaAPe@No@VoEtBkDnBa@Vq@b@qAhAc@b@s@|@MPm@~@w@lAgAfBeAfB]l@a@r@cAbBa@r@c@t@INWb@]j@ILMNSZQN[NWJYF???fA@r@?r@?tDAlBApA?n@A~@?N?v@AzAAtBAfBAzG?zGA`DA|A?t@@bADh@Dh@T|@^hAFPVb@`@d@RPf@Vz@^DB^Hr@HtA@r@@|@AjG?hF?jACzAC~EMH?b@Hn@?lMA~@AlABVBXJ^Zr@t@rBjCn@x@LTFPLd@JtALv@Nd@Pb@R`@HJDHf@j@XV|BbCj@d@b@b@RZPXVj@Tt@DVBV@zA?~IDzHHdF?rAAbAEx@C\\AXK`BEfC?fBBtABfADjAVdDFlABlABjB@xGBl@DNFNFFNFRBX@|HDtJAhFFv@AZE~A]PFPDj@\\\\Rn@l@h@l@Tp@H\\Jj@Z`DHxAHv@H^P^RVLJ`@RpEhB|B`AtBx@pEhBTJv@d@VRVTn@r@^j@b@x@LZ\\`A\\`BHj@Ft@?FDt@@bAAb@Af@M|A[vBEp@A~@@~@@b@NlALt@Tt@Vp@Zl@\\f@f@j@d@^f@Zh@Th@Lj@HbAHvERj@Fp@Ph@TtAx@|@b@d@Nl@JR@r@BhAC\\Ef@Md@QXOn@a@xBeBh@YPCDAb@?XFjA`@pT|HjMrEnBp@lBr@vDtArC|@t@Lv@DrADzKCp@C^GRI`@Yj@e@dAeAz@s@lBqAzJgFtCeB`B}@\\OZGZGh@Ix@Gz@C\\?r@DPBTFd@RZPl@f@p@r@h@p@HH|@rAZl@Rd@`@~A~AbGRn@t@lCPd@NZRZTVtC|B|CzBp@l@\\^Vf@N`@Hn@Db@P|C|@zMLr@Pl@FT|@|CLr@PdAHt@J`B^xEHf@Lj@^pAl@`BZx@hAxCl@|AxA|EFXHj@?~@GtBO~AEjACjA@bA@ZFp@RfAPl@Tj@^t@jB~Dn@jA\\f@TZXVXP\\N`Dx@x@ZPHRNb@\\`@`@RXZn@Xp@J`@F^Dl@Dn@@l@EbACb@Ih@Kh@Of@Sd@U`@W^aA|@[\\wAtAmAfAiB|A{BjBeCzBYZSXQZO\\M^I`@Gl@C^Ad@?f@Db@Dd@Hb@L`@N^P\\RZX\\d@x@NXRn@Hb@Fd@Bd@?d@CpAGlAOnE@h@@\\Bd@Fd@Hb@Lb@N^`@v@hApB^x@Ld@Jh@Ff@Bj@@b@Ar@El@Ij@Kf@_@fAmCdHiCtGmE`LQj@[lAKh@aAvHs@`G]zBSdAOr@IVWd@MP]`@QLgAf@uAj@kCnAu@d@i@`@gB`By@~@QVo@`Aq@lAkE|Is@pAwAxBs@bAwBvCq@jAu@~A[|@Qx@Kn@Ez@CpB?`C?zB?hAEh@Ip@Qp@GT[p@c@n@kDfDk@r@_@r@OZK\\G\\If@c@vE[xDKbAKr@K`@Y`Ai@lAoB~Dw@dBg@z@Y^YZWT_@V[N[LYFm@FoFHiAH]F]JWLWPWRQPSV[j@KT]hAIt@EXCd@Av@@r@DnB?h@B\\DpEJ~E?vACx@KhAKr@i@`CgDvM{@`Cg@rAUz@Or@C\\?X@ZRjA^fBFj@?TCTALELMPYVq@^}B|@UJg@b@c@f@QTADKZ[pAS^GFOF_@Bu@B????",
+        "start_waypoint_id": 319378958,
+        "end_waypoint_id": 319379227
+      },
+      {
+        "id": 377409122,
+        "distance": 44.87,
+        "time": 3361,
+        "use_highways": true,
+        "encoded_polyline": "gl~pF~{nqVuBF_@@sANuBTiBRa@H_A@mACg@@e@BOHKHMNq@xAc@x@w@hAaAlAa@p@k@fA_ApBk@`B[~@k@rByA`Fa@|@SZa@f@ML]h@MZOt@Kz@Ax@?rC?b@?NEBGNMt@Ix@En@@FCh@Ar@Bh@?L@vE@rACt@Gz@_@bEQjAQz@a@|AOd@W`Ac@`Bi@nBq@jBi@lAm@bAyAtBcAtAeAfBa@f@wBzBSXc@x@i@lAmBvF[p@OZ]h@qBrBW^S^M\\Sl@Mj@[`AWf@u@bAa@b@u@p@s@f@{@d@gCbA}C|AmAv@_At@OHSHUDUBU@gAMkBWkCk@a@Ga@Au@By@Hq@Na@No@^i@d@QJI@u@Gm@Cg@F]FUBS?q@Go@MUKmBgAs@USCUCK?k@@YFUFG@MBS@_@Gg@MiAOe@BeBRg@?c@HSLUTgAtAQVGH_Ah@cCnA_@R[Ns@`@iAj@WP{A`Bc@^y@j@[XOPg@r@a@p@Sb@_@f@kAdCS^g@n@WTOF]D]?]G_Aa@_@E}@Ho@Ns@TwAh@QFa@L]LOPIRADAD?^@hBHpCD`C?zABzAFnAJ~@d@rDb@dD^vCLz@Fr@Hj@XhBJr@DV^tAJRTZVXVTZPZLZHJ@z@Af@D|@FpA?RFPLLTTfAb@~ALt@@h@BRJf@Rd@X\\h@XXRX\\HNTXXR\\L\\B^CPEXGT?TDRJPPLTHVJr@F\\JZLXVb@DDPTH\\BR?ZCp@@b@B`@Db@H^HZZp@b@dATn@nC`Gt@rAVb@b@j@PPf@`@|@f@l@Xh@Rh@FN@l@BF@jCNV?f@Gf@Mn@UJC\\CZBXJVPRVLVPt@`@nBRz@FLLR^\\\\RTFxAPRHPR`@z@Zz@PZVJXF`@D~@Bt@BvFj@lBRb@JPFhAr@\\TZ\\JHRVNZFZVl@`@nAj@hBDXDX@XF`CBb@FXJPLLPDrA?rDS`CSZAR@PBPDPFPJNLLNJPr@rBn@nBTn@Jb@Db@?d@Eb@K`@Q\\UVuA|@WVW^IRGR_@pBk@`Cg@xBSj@Wj@M`@Ed@?VKx@QbAMj@Sd@KLm@h@[f@Sd@MPi@p@k@d@QRYd@QTGV?RDNHLLDNARMfBgBj@g@n@[^KNA^?PHHPHZF`@J^Hb@LXV`@Zv@J`@DRBVCXGTINMHILAP@NFLHTDJDN?LCXi@pAABADAD?B?@?D?@?@?@@B@@?@@@B@@@B?H@H?h@ANFJHDF@H?X?XGh@EPq@lA[p@CPARBPFNJJJFXBLHBBBFBP?L?JAH?DELITMNYZS^[^s@h@GNA\\@NFL|@~@HP@H???RAHKRIJYf@}@nAGPALBTHNHHn@RJJDP?NIhAGVY|@ERCPArAEZETKRORKRGTCV?V@LAxAATBTP~@D\\Bj@AVIVGJSHy@JW@]DMHKLGRCP??D\\J^HRNJRFXAb@E^@TDJDLTBJHh@@XDPDJHJNHNLLRDX@XG`@?NFRJNJDJ?LCJCJBHDJNBRCv@Ab@BRBJFHZXRLLNHPBTAp@@`@DTJNLFLDJLHPBRAv@Bx@DRr@hAFNb@jDb@zBBd@?TDf@BNPZp@p@VX^n@FP@LATAv@@PHZLZXb@`@b@JNP`@Vt@FXDXAZCZCHER?\\LtALd@R`@V\\VTXPJB`@FNNLFj@HZFVNp@j@NFvAd@XHZLj@^`@ZLNJLHNHNFPFPFZDT@F@FBBBDBBD@D@D?dABNDNDTLr@j@NRPVDBDBvA^j@P\\Nt@b@RTJRDZ@hC@PBNBLXr@@HAn@Ep@A^B^DhABJDRBN?t@ANOZCNCV@NN|@L`@JPJDPFdAP\\RTRTVj@z@\\j@FPFVDT?NC`@Ml@MXEHqE|FKTIVCX?LFVZr@BZA^CLGRKNSLONENAT?h@Dn@?b@E^GZCXBZHVLRd@VZVTTb@x@N^D\\@NBPJ`@Pd@h@rAHVHf@Jz@DLFJDPBV?X?\\E^ANBt@Cp@CPK^MPSTILERQ~@EPGJi@`@YZy@nAa@fAU`@[`@]VGHKRE\\I^GPc@~@GLQPe@VWLWNKPIPUzAKl@Sj@q@dAO\\K^WdBQnBMzBCrA@n@HfB?XEXKRU^e@j@OVCJAL?VDd@RfAB^FzEFv@Hh@Ph@l@tAFRBLFj@?TERWd@[t@I^CVCrAC\\GPY^Sf@G^E^A\\BvA@r@Kr@Ap@EVM^EN?RDNXd@BF@NANKd@g@bBsAdDGXAVAjAAn@CVe@dAmAdDSb@q@|@O\\K\\ARA^@`AANAHITQV_AhAKTAPBd@@JAf@Ej@G\\[hAI\\E^Av@C^WjAEV@TD\\Bn@Et@Cf@If@IVORo@d@SVGP?FBJl@p@JPBPA\\Qt@GZAV@TDV`AvBBJ@J?\\C^GZKZy@jBS^q@p@EFCN?N@HFHLDb@Ff@@XCRAFBJFHXH`@@ZCRGPOPm@b@??LjDDp@Fb@d@bCJh@Fp@DtA?n@GlAIfAQxAKj@IXMP[VIJMRCHGd@SxACFKLEDe@HI@MFSJ]ZKNQ\\Y|@GJEDaBr@IBeAZy@h@QFM?e@OQAODWP]`@Yd@Un@Op@Gh@Ab@BvA?^AZCZEHENOT{@~@WRM@MCECMSEAI???K@IFELEP?RBLFJFBRDl@KTANAREL@NFFJ@T@d@FVN^DT?VEVGPMLMPGTAXFXDb@AZIPIHKFg@BOHMNGNCL?NBL^j@FVBVB`@C^E\\G`@@NBLDJFDLHRBt@IRCTARBd@PN@RARERAHBFDJJHRBT?\\E^ITEFMNKBw@PcBz@GHIPKj@?Z@XBJHR`@j@BHBHBT?t@Bj@B`@FTh@fARb@BPAPQr@U|@UrAIl@KdBAx@@~@Df@Fd@Nj@^x@Tb@TTz@x@tC|CfAfA^f@LTFLDTVlC??lAObDYp@CxA?rID`AGTEp@U`@QZSNOX_@JUb@oALk@N]Xi@lAyCT[V[XS`Ag@VIxBk@XMRSLWJa@ReALg@LUHIPKZGZ?j@Hd@NRDHDHDFBLR|@rBRn@FRHl@Bp@@xE?`AF^Vr@FNRd@JN`@h@TVDDd@^VNNHd@Nn@H^@d@AnEk@RGNEx@a@`@UVKXCR?^Hb@Nv@Nd@BfCHv@FtAR|FpA^D|@B`B@`GBrD?jC?`D@\\Q??FU@}FB_@Ha@FQLMPGvAMhMcAdAE|EEjAFj@Aj@In@MZCd@Bt@Hh@@tAAZBt@JV@fAEjAFf@?dAQ`@Cf@@TCn@OV?RFRRJRJXBDJFJ@~@MbAGRKb@_@\\YLKb@SbAUrAOhDi@j@SFIPU^w@TUPGFA~Gr@rCZ~AX|B^fBVr@FzAIlAQn@Et@?n@Hj@FH?LAHCHGFGBIBI?K?MCMSs@ESAM@OBEDEFCD?JDHD|@bAj@`@vA|@XJb@F^AZGJCLKRQR]JY^sA^_Ax@cBL]Nk@Ls@j@_ENk@NWLIPELBFBJJHP@DBN@ZA^Kt@S|@OjAAj@APDf@?ZIn@SvAC`@EhABhABPFPNPNF`@@xAAb@DfCv@r@Jx@@x@Cr@I^A\\@VFrAr@ZHX@ZCd@Qb@Q`@GZAVDb@NTNPRLRFTTzALXLN^TvChA|A^|FpAd@JB@xBt@TFdDj@|@LvBXn@DZAb@GTI|BmAjGqCpBaAtBaAn@WjCoAt@_@xEsCTK`Bm@t@[XMnEqCfDeCdAy@fD}CPQn@m@jAcA`CyBnCeCx@{@tAcBfAwAv@mA|AiCjAuBrDmGTYxCgC`@YZO\\KTCrAElEEzEE~LHbBBbAF`@JXN`DdCXNZHT@|@GdBStGs@j@EjBUvDa@fLmArDYrAUnAg@hQuIlA}@hAwAP[FQLy@Fm@?}@C]]wCIg@ISOOw@Ym@UUMQS]q@Sa@??NUPQLERCNA~@?xAEd@DTFZPb@\\rBnB`@TTFT@h@E\\IbBc@f@ItF_@|AQp@MNEn@SvAi@n@WdCaARCFAR?~@LdAND@xC|@|@XRBVCDEFGFUFe@HkB@g@GuA@]@MJc@L_@T]LMNKTGh@Cp@BtEDlGAzC@n@?Z@bAGb@E\\K`Ce@vAW`B_@n@Kp@KtBS~@Al@AnAGj@C`BEzBKtBa@hBy@nBkBbDkE\\a@b@o@x@gAf@k@x@qAb@m@jAqArAqA`ByAhBmAlBaApCgANGfB_@~Ba@nAOvAIhACtBDdAFlDZbE`@n@HrB\\VJXNf@b@^d@t@pAj@fA~@zAd@x@d@t@ZXTJTBd@BfHZrFVL?h@BlCWb@@T@d@HTH|@d@b@Zb@^BBdAd@xBr@`Bh@tBj@z@V`@LrAXjAN\\BtCGb@?V@ZHtBt@vCj@tAXhHjAnAXfIpBlB`@D@`@F`APXFhDn@bDv@rDx@|D`AlDt@`ALn@F~@DrEF`@DTFRJHFRRp@v@XVh@Xl@TxAZtATh@Rf@`@~BxBfCnCTTl@t@|@xAzE~IjA|Bd@v@TTbB`B|@`AZ`@|@zA^f@h@f@TRdCjBfBrAPF`@B`@?z@Cf@D^HPHZRRPZb@LTRh@Nv@Bh@@b@CvBChNBRL\\\\h@d@d@dA`At@h@r@f@vAj@zBx@\\HfBZ|@ZRDn@HfCXjAR^Jj@XTRn@v@`FbHn@`AnChFf@z@b@r@f@r@d@h@h@l@|@x@l@d@`@Zv@f@n@\\x@`@vB|@??]fAMb@MNWPa@RGFEDa@zAWnBI^IXWPs@Og@I????",
+        "start_waypoint_id": 319379227,
+        "end_waypoint_id": 319378582
+      }
+    ],
+    "regions": [],
+    "categories": []
+  }
+}
