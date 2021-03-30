@@ -87,7 +87,7 @@ def export(trip_ids, no_waypoints=False, no_paths=False, no_group_days=False, de
                         commit = True
                     elif end_waypoint_id in waypoint_start_date.values():
                         name = waypoint_name[end_waypoint_id] if end_waypoint_id in waypoint_name else ''
-                        print("  Found end of day %2d in leg %2d  (%s)" % (day+1, waypoint_index, name))
+                        print("  Found end of day %2d in leg %2d  (%d miles to %s)" % (day+1, waypoint_index, distance, name))
                         commit = True
                     else:
                         commit = False
@@ -102,7 +102,7 @@ def export(trip_ids, no_waypoints=False, no_paths=False, no_group_days=False, de
                 if (not commit):
                     if not no_group_days:
                         name = waypoint_name[end_waypoint_id] if end_waypoint_id in waypoint_name else ''
-                        print("  Found end of day %2d in leg %2d  (%s)" % (day+1, waypoint_index, name))
+                        print("  Found end of day %2d in leg %2d  (%d miles to %s)" % (day+1, waypoint_index, distance, name))
                     MakeTrack(kml, day, coords, distance)
 
         except:
