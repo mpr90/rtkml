@@ -26,3 +26,5 @@ Both the data from the waypoints in the RT data and the legs (a.k.a. KML path or
 If you have a multi-day trip and include a date on the overnight stops, rtkml will create a single track for each day of the trip. This feature can be disabled by using the `--no-group-days` command line argument, which will then create one KML path for each leg in the JSON response.
 
 To save a copy of the JSON response from RoadTrippers API, use the `--debug` flag. This will be saved in a file named after the trip ID: `<ID>.json`
+
+An example of the JSON data returned from Roadtrippers is given [here](example_response.json).
