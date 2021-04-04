@@ -28,3 +28,19 @@ If you have a multi-day trip and include a date on the overnight stops, rtkml wi
 To save a copy of the JSON response from RoadTrippers API, use the `--debug` flag. This will be saved in a file named after the trip ID: `<ID>.json`
 
 An example of the JSON data returned from Roadtrippers is given [here](example_response.json).
+
+### Example
+
+The following example walks through the steps to extract trip data from Roadtrippers and import as a route/trip to a Garmin GPS device.
+
+1. Run the rtkml script to extract the KML for the selected trip, e.g.
+`python rtkml.py 32268605 --debug`
+
+2. use [gpsbabel](https://www.gpsbabel.org/index.html) to convert KML to GPX based on the waypoints in Roadtrippers. Strip out waypoints since they would otherwise show up as 'favourites' in Garmin. Simplify route by removing redundant waypoints to keep error within 10 meters. e.g.
+`gpsbabel -i kml -o gpx -f 32268605.kml -x transform,rte=wpt -x nuketypes,waypoints,tracks -x simplify,crosstrack,error=0.01k -F 32268605.gpx`
+
+3. Import the resulting GPX into (Garmin Basecamp)[https://www.garmin.com/en-US/software/basecamp/]
+
+4. Right clip on the newly imported route and recalculate. Confirm route is as desired. If not, go back to Roadtrippers and add waypoints, then repeat.
+
+5. Transfer route to Garmin device from Basecamp.
