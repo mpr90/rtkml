@@ -21,7 +21,7 @@ Go to Roadtrippers, log in, and click on "My Trips". Select the trip you want to
 
 ### Additional Info
 
-Both the data from the waypoints in the RT data and the legs (a.k.a. KML path or GPX Track) will be extracted into the KML. All of the "legs" in the Roadtrippers JSON response data will be combined into a single path. The waypoints can be omitted by using the `--no-waypoints` argument; the paths can be omitted by using the `--no-paths` argument. 
+Both the data from the waypoints in the RT data and the legs (a.k.a. KML path or GPX Track) will be extracted into the KML. All of the "legs" in the Roadtrippers JSON response data will be combined into a single path. The waypoints can be omitted by using the `--no-waypoints` argument; the paths can be omitted by using the `--no-paths` argument. Set the prefix for the output KML filename using the `--name <prefix>` argument.
 
 If you have a multi-day trip and include a date on the overnight stops, rtkml will create a single track for each day of the trip. This feature can be disabled by using the `--no-group-days` command line argument, which will then create one KML path for each leg in the JSON response.
 
@@ -31,16 +31,16 @@ An example of the JSON data returned from Roadtrippers is given [here](example_r
 
 ### Example
 
-The following example walks through the steps to extract trip data from Roadtrippers and import as a route/trip to a Garmin GPS device.
+The following example walks through the steps to extract trip data from Roadtrippers and import as a route/trip to a Garmin GPS device. It's actually best to create the GPX route using only waypoints and have the Basecamp or Garmin recalculate the route, rather than using the KML paths, which contain many track points and can sometimes overload the Garmin.
 
 1. Run the rtkml script to extract the KML for the selected trip, e.g.
-`python rtkml.py 32268605 --debug`
+`python rtkml.py --debug 32268605 -name bragg-`
 
-2. use [gpsbabel](https://www.gpsbabel.org/index.html) to convert KML to GPX based on the waypoints in Roadtrippers. Strip out waypoints since they would otherwise show up as 'favourites' in Garmin. Simplify route by removing redundant waypoints to keep error within 10 meters. e.g.
-`gpsbabel -i kml -o gpx -f 32268605.kml -x transform,rte=wpt -x nuketypes,waypoints,tracks -x simplify,crosstrack,error=0.01k -F 32268605.gpx`
+2. use [gpsbabel](https://www.gpsbabel.org/index.html) to convert KML to GPX based on the waypoints in Roadtrippers. Strip out waypoints since they would otherwise show up as 'favourites' in Garmin. You end up with one route with the waypoints from Roadtrippers.
+`gpsbabel -i kml -o gpx -f bragg-32268605.kml -x transform,rte=wpt -x nuketypes,waypoints,tracks -F bragg-32268605.gpx`
 
 3. Import the resulting GPX into (Garmin Basecamp)[https://www.garmin.com/en-US/software/basecamp/]
 
-4. Right clip on the newly imported route and recalculate. Confirm route is as desired. If not, go back to Roadtrippers and add waypoints, then repeat.
+4. Right clip on the newly imported route and recalculate. Confirm route is as desired (check routing settings in Basecamp). Go back to Roadtrippers and add waypoints if necessary, then repeat.
 
 5. Transfer route to Garmin device from Basecamp.
