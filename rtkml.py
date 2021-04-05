@@ -28,7 +28,7 @@ def MakeTrack(kml, day, coords, distance):
     ls.description = "Distance: %d" % distance
     return ls
 
-def export(trip_ids, no_waypoints=False, no_paths=False, no_group_days=False, debug=False):
+def export(trip_ids, kmlname='', no_waypoints=False, no_paths=False, no_group_days=False, debug=False):
     import requests
     import simplekml
     import polyline
@@ -109,7 +109,7 @@ def export(trip_ids, no_waypoints=False, no_paths=False, no_group_days=False, de
             e = sys.exc_info()[0]
             print('Error parsing trip %s : %s' % (id, e))
 
-    fn = '-'.join(trip_ids) + '.kml'
+    fn = kmlname + '-'.join(trip_ids) + '.kml'
     kml.save(fn)
     print('KML file saved to %s' % fn)
 
@@ -120,5 +120,6 @@ if __name__ == '__main__':
     parser.add_argument('--no-paths', action='store_true', help='Omit paths from the KML.')
     parser.add_argument('--no-group-days', action='store_true', help='Do not group individual tracks into days based on dates.')
     parser.add_argument('-d', '--debug', action='store_true', help='Enable debugging, save JSON response to file.')
+    parser.add_argument('-n', '--name', action='store', help='Set output KML filename prefix', default='')
     args = parser.parse_args()
-    export(args.trip_id, args.no_waypoints, args.no_paths, args.no_group_days, args.debug)
+    export(args.trip_id, args.name, args.no_waypoints, args.no_paths, args.no_group_days, args.debug)
