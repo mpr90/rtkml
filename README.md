@@ -23,7 +23,9 @@ Go to Roadtrippers, log in, and click on "My Trips". Select the trip you want to
 
 Both the data from the waypoints in the RT data and the legs (a.k.a. KML path or GPX Track) will be extracted into the KML. All of the "legs" in the Roadtrippers JSON response data will be combined into a single path. The waypoints can be omitted by using the `--no-waypoints` argument; the paths can be omitted by using the `--no-paths` argument. Set the prefix for the output KML filename using the `--name <prefix>` argument.
 
-If you have a multi-day trip and include a date on the overnight stops, rtkml will create a single track for each day of the trip. This feature can be disabled by using the `--no-group-days` command line argument, which will then create one KML path for each leg in the JSON response.
+If you have a multi-day trip and include a date on the overnight stops, rtkml will create a separate path for each day of the trip. This feature can be disabled by using the `--no-group-days` command line argument, which will then create one KML path for each leg in the JSON response.
+
+All the waypoints and paths are stored in one KML file unless the `--split-wpt-days` argument is given, in which case the waypoints are now written to separate KML files, one for each day of the trip. The paths are still written to a separate (single) KML file.
 
 To save a copy of the JSON response from RoadTrippers API, use the `--debug` flag. This will be saved in a file named after the trip ID: `response_ID.json`
 
